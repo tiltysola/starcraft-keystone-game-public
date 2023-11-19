@@ -1,4 +1,4 @@
-# starcraft-keystone-game  
+# Translation: starcraft-keystone-game  
 
 ### Structure  
 
@@ -23,5 +23,3 @@
 > manual: add lp_cname & lp_base_text support.  
 > manual: StringToText(lib1_gv_card[lp_card_id].lv_name) > lib1_gv_card[lp_card_id].lv_cname  
 > manual: lib1_gv_card[lp_id].lv_base_text = TextToString(lp_base_text)  
-> manual: lib1_gv_set[x].lv_price = 150; > lib1_gv_set[x].lv_price = 15;  
-> manual: Avatar: lib1_gf_DefineCosmeticPortrait  
