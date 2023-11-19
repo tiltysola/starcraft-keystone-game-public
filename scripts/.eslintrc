@@ -1,0 +1,8 @@
+{
+  "extends": "eslint-config-ali/typescript/node",
+  "rules": {
+    "no-console": "off",
+    "require-atomic-updates": "off",
+    "no-mixed-operators": "off"
+  }
+}

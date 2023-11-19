@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BankList>
+    <Bank Name="sccgtest9" Player="4"/>
+    <Bank Name="kscg" Player="5"/>
+    <Bank Name="sccgtest9" Player="5"/>
+    <Bank Name="sccgtestnem" Player="4"/>
+    <Bank Name="kscg" Player="3"/>
+    <Bank Name="sccgtest9" Player="2"/>
+    <Bank Name="sccgtestnem" Player="1"/>
+    <Bank Name="sccgtestnem" Player="3"/>
+    <Bank Name="sccgtest9" Player="3"/>
+    <Bank Name="sccgtestnem" Player="2"/>
+    <Bank Name="kscg" Player="1"/>
+    <Bank Name="sccgtest9" Player="1"/>
+    <Bank Name="bfcgbank1" Player="1"/>
+    <Bank Name="bfcgbank1" Player="5"/>
+    <Bank Name="kscg" Player="2"/>
+    <Bank Name="bfcgbank1" Player="4"/>
+    <Bank Name="bfcgbank1" Player="3"/>
+    <Bank Name="sccgtestnem" Player="6"/>
+    <Bank Name="kscg" Player="4"/>
+    <Bank Name="sccgtest9" Player="6"/>
+    <Bank Name="sccgtestnem" Player="5"/>
+    <Bank Name="bfcgbank1" Player="2"/>
+    <Bank Name="bfcgbank1" Player="6"/>
+    <Bank Name="kscg" Player="6"/>
+</BankList>

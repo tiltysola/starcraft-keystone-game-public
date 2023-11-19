@@ -1,0 +1,12 @@
+**/*.d.ts
+__test__
+
+node_modules
+package-lock.json
+pnpm-lock.yaml
+dist
+cache
+public
+logs
+coverage
+.DS_Store

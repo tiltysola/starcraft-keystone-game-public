@@ -1,0 +1,3470 @@
+[
+  {
+    "en": "250mm Strike Cannons",
+    "cn": ""
+  },
+  {
+    "en": "2 Battle Phase Disappear",
+    "cn": "两个战斗阶段消失"
+  },
+  {
+    "en": "Aberrant Strength",
+    "cn": "异常力量"
+  },
+  {
+    "en": "Accelerated Fabricator",
+    "cn": ""
+  },
+  {
+    "en": "Anaerobic Enhancement",
+    "cn": "厌氧强化"
+  },
+  {
+    "en": "Artanis's Unification",
+    "cn": "我得重新集结部队"
+  },
+  {
+    "en": "Queen of the Zerg",
+    "cn": "虫群女王"
+  },
+  {
+    "en": "Ascended",
+    "cn": ""
+  },
+  {
+    "en": "Assassin",
+    "cn": "刺客"
+  },
+  {
+    "en": "Assisted Targeting",
+    "cn": ""
+  },
+  {
+    "en": "Augmented Annihilation",
+    "cn": "终末"
+  },
+  {
+    "en": "Behemoth Reactor",
+    "cn": "贝希摩斯反应堆"
+  },
+  {
+    "en": "Black Site",
+    "cn": "隐秘地带"
+  },
+  {
+    "en": "Blades of Vengeance",
+    "cn": "复仇之刃"
+  },
+  {
+    "en": "Bombardier",
+    "cn": ""
+  },
+  {
+    "en": "Broodling Gestation",
+    "cn": "孵卵"
+  },
+  {
+    "en": "Bulwark Field",
+    "cn": "保护立场"
+  },
+  {
+    "en": "Bulwark Field Armor",
+    "cn": "保护立场装甲"
+  },
+  {
+    "en": "Carapace Contagion",
+    "cn": "传播甲壳"
+  },
+  {
+    "en": "Carrion Host",
+    "cn": ""
+  },
+  {
+    "en": "Changeling Passive",
+    "cn": "鸠占鹊巢"
+  },
+  {
+    "en": "Steady Targeting Copy",
+    "cn": "稳定狙击复制"
+  },
+  {
+    "en": "Charged Solar Beam",
+    "cn": ""
+  },
+  {
+    "en": "Charon Boosters",
+    "cn": ""
+  },
+  {
+    "en": "Chitinous Plating",
+    "cn": "几丁质外壳"
+  },
+  {
+    "en": "Cloaking Field",
+    "cn": "隐身场"
+  },
+  {
+    "en": "Cloak Field",
+    "cn": ""
+  },
+  {
+    "en": "Combat Drugs",
+    "cn": "战斗药剂"
+  },
+  {
+    "en": "ConstructionAnimationHelper",
+    "cn": ""
+  },
+  {
+    "en": "Consumed Energy",
+    "cn": "被消耗的能量"
+  },
+  {
+    "en": "Continuous Ascension",
+    "cn": "持续提升"
+  },
+  {
+    "en": "Contraband Delivered",
+    "cn": ""
+  },
+  {
+    "en": "Contraband Hauler",
+    "cn": ""
+  },
+  {
+    "en": "Control Room Access",
+    "cn": ""
+  },
+  {
+    "en": "Control System Malware",
+    "cn": ""
+  },
+  {
+    "en": "Oppressive Stench",
+    "cn": "难闻的恶臭"
+  },
+  {
+    "en": "Disruption Web Copy",
+    "cn": "干扰网"
+  },
+  {
+    "en": "Creep Excretion Life Regen",
+    "cn": ""
+  },
+  {
+    "en": "Daelaam Founder",
+    "cn": "达拉姆创始人"
+  },
+  {
+    "en": "Deadly Charging",
+    "cn": "致命的指控"
+  },
+  {
+    "en": "Defensive Matrix",
+    "cn": "防御矩阵"
+  },
+  {
+    "en": "Acid Spores",
+    "cn": "酸性孢子"
+  },
+  {
+    "en": "Digestive Acid",
+    "cn": ""
+  },
+  {
+    "en": "Distortion Field",
+    "cn": ""
+  },
+  {
+    "en": "Dominance of the Highlord",
+    "cn": "高阶领主的统治"
+  },
+  {
+    "en": "Don'tAbsorbAnotherUnit",
+    "cn": ""
+  },
+  {
+    "en": "EMP Permanent Decloak",
+    "cn": "EMP永久反隐"
+  },
+  {
+    "en": "Energizer",
+    "cn": "兴奋剂"
+  },
+  {
+    "en": "Eternal Warrior",
+    "cn": "永恒的战士"
+  },
+  {
+    "en": "Evolved",
+    "cn": "进化"
+  },
+  {
+    "en": "Exposed Carapace",
+    "cn": "裸露甲壳"
+  },
+  {
+    "en": "Fenix's Leadership",
+    "cn": "菲尼克斯的领导"
+  },
+  {
+    "en": "Field-Assist Targeting System",
+    "cn": ""
+  },
+  {
+    "en": "Flight Lessons",
+    "cn": "飞行训练"
+  },
+  {
+    "en": "Flyer Carapace",
+    "cn": "飞行甲壳"
+  },
+  {
+    "en": "Forbidden Knowledge",
+    "cn": "禁忌知识"
+  },
+  {
+    "en": "Forward Warp Point",
+    "cn": "前往折跃点"
+  },
+  {
+    "en": "Fully Ascended",
+    "cn": ""
+  },
+  {
+    "en": "Fungal Bloat",
+    "cn": ""
+  },
+  {
+    "en": "Fungal Growth",
+    "cn": ""
+  },
+  {
+    "en": "Gas Upkeep",
+    "cn": "瓦斯上限"
+  },
+  {
+    "en": "Goliath Lessons",
+    "cn": "歌莉娅训练"
+  },
+  {
+    "en": "Gorged",
+    "cn": ""
+  },
+  {
+    "en": "Graviton Beam",
+    "cn": ""
+  },
+  {
+    "en": "Grooved Spines",
+    "cn": "槽刺"
+  },
+  {
+    "en": "Hand Size +1",
+    "cn": "手牌上限+1"
+  },
+  {
+    "en": "Hand Size +2",
+    "cn": ""
+  },
+  {
+    "en": "Heavy Suit Lessons",
+    "cn": "重装训练"
+  },
+  {
+    "en": "Hefty Simulant",
+    "cn": ""
+  },
+  {
+    "en": "Heroic",
+    "cn": "英雄"
+  },
+  {
+    "en": "Heroic Equipment",
+    "cn": "英雄装备"
+  },
+  {
+    "en": "Heroic Suppressed",
+    "cn": "英勇镇压"
+  },
+  {
+    "en": "Hungry",
+    "cn": "贪婪的"
+  },
+  {
+    "en": "Hybrid Plating",
+    "cn": "混合体护甲"
+  },
+  {
+    "en": "Improved Ballistics",
+    "cn": "改良弹道"
+  },
+  {
+    "en": "Improved Engineering",
+    "cn": "改进的工程"
+  },
+  {
+    "en": "Improved Equipment",
+    "cn": "改进的装备"
+  },
+  {
+    "en": "Indoctrination",
+    "cn": "洗脑"
+  },
+  {
+    "en": "Indomitable Will",
+    "cn": ""
+  },
+  {
+    "en": "Infested Capital Ship",
+    "cn": ""
+  },
+  {
+    "en": "Infested Mech",
+    "cn": ""
+  },
+  {
+    "en": "Interference Malware",
+    "cn": ""
+  },
+  {
+    "en": "Irradiate",
+    "cn": "辐照"
+  },
+  {
+    "en": "Justice",
+    "cn": "正义"
+  },
+  {
+    "en": "Karax's Expertise",
+    "cn": "凯拉克斯的专业知识"
+  },
+  {
+    "en": "Lock On Target",
+    "cn": ""
+  },
+  {
+    "en": "Loot Smuggled",
+    "cn": ""
+  },
+  {
+    "en": "Masked Nature",
+    "cn": "伪装环境"
+  },
+  {
+    "en": "Metabolic Boost",
+    "cn": "代谢加速"
+  },
+  {
+    "en": "Metasynaptic Node",
+    "cn": "突触节点"
+  },
+  {
+    "en": "Mind Blasted",
+    "cn": "心灵震爆"
+  },
+  {
+    "en": "Mineral Upkeep",
+    "cn": "水晶上限"
+  },
+  {
+    "en": "Moebius Reactor",
+    "cn": "莫比斯反应堆"
+  },
+  {
+    "en": "Murderous Ascendance",
+    "cn": "杀戮飞升"
+  },
+  {
+    "en": "Murderous Claws",
+    "cn": "凶残利爪"
+  },
+  {
+    "en": "Mutable",
+    "cn": "不稳定的"
+  },
+  {
+    "en": "Nano-Repair Bots",
+    "cn": ""
+  },
+  {
+    "en": "Nemesis",
+    "cn": "复仇"
+  },
+  {
+    "en": "Neosteel Plating",
+    "cn": "合金护甲"
+  },
+  {
+    "en": "Neural Parasite Caster Hexlink",
+    "cn": ""
+  },
+  {
+    "en": "Neural Parasite Hexlink",
+    "cn": ""
+  },
+  {
+    "en": "Supercharge",
+    "cn": "增压"
+  },
+  {
+    "en": "Overclocked Fission Drive",
+    "cn": ""
+  },
+  {
+    "en": "Overmind's Covenant",
+    "cn": "主宰的契约"
+  },
+  {
+    "en": "Permanent Ensnare",
+    "cn": "永久诱捕"
+  },
+  {
+    "en": "Permanently Revealed",
+    "cn": "永久暴露"
+  },
+  {
+    "en": "Recall Suits",
+    "cn": "召回单位"
+  },
+  {
+    "en": "Plague",
+    "cn": "瘟疫"
+  },
+  {
+    "en": "Pressurized Ejections",
+    "cn": "增压腺体"
+  },
+  {
+    "en": "Psi Emitter",
+    "cn": "灵能发射器"
+  },
+  {
+    "en": "Psionic Storm",
+    "cn": "灵能风暴"
+  },
+  {
+    "en": "Psionic Injection",
+    "cn": "灵能注射"
+  },
+  {
+    "en": "Psionic Master",
+    "cn": "灵能大师"
+  },
+  {
+    "en": "Purification Beam",
+    "cn": ""
+  },
+  {
+    "en": "Ensnare",
+    "cn": "诱捕"
+  },
+  {
+    "en": "Radiation Rounds",
+    "cn": ""
+  },
+  {
+    "en": "Rak'Shir Champion",
+    "cn": "拉克希尔仪式"
+  },
+  {
+    "en": "Interference Matrix",
+    "cn": "干扰矩阵"
+  },
+  {
+    "en": "Ravenous Range",
+    "cn": "具有“Ravenous”关键词卡牌的距离"
+  },
+  {
+    "en": "Raynor's Leadership",
+    "cn": "雷诺的领导"
+  },
+  {
+    "en": "Raynor's Orders",
+    "cn": "雷诺的命令"
+  },
+  {
+    "en": "Raynor's Revolution",
+    "cn": "革命雷诺"
+  },
+  {
+    "en": "Redemption",
+    "cn": ""
+  },
+  {
+    "en": "Reincarnation",
+    "cn": "复活"
+  },
+  {
+    "en": "Rending Claws",
+    "cn": ""
+  },
+  {
+    "en": "Sabotage",
+    "cn": "破坏"
+  },
+  {
+    "en": "Savage Contagion",
+    "cn": "野性传染"
+  },
+  {
+    "en": "Scientific Genius",
+    "cn": "科学天才"
+  },
+  {
+    "en": "Hypershield Generator",
+    "cn": ""
+  },
+  {
+    "en": "Invulnerable",
+    "cn": "无敌"
+  },
+  {
+    "en": "Siege Range",
+    "cn": "“攻城机械”的范围"
+  },
+  {
+    "en": "Simulant Biosteel",
+    "cn": ""
+  },
+  {
+    "en": "Smuggler",
+    "cn": ""
+  },
+  {
+    "en": "Solar Beam",
+    "cn": ""
+  },
+  {
+    "en": "Stealth Equipment",
+    "cn": "隐形装备"
+  },
+  {
+    "en": "Structural Stasis Field",
+    "cn": "建筑静滞场"
+  },
+  {
+    "en": "Stasis Prison",
+    "cn": "静滞监狱"
+  },
+  {
+    "en": "Structure Attacker",
+    "cn": "建筑攻击者"
+  },
+  {
+    "en": "Suppress Changeling",
+    "cn": "压制恶魂"
+  },
+  {
+    "en": "Suspicious Tech",
+    "cn": "可疑技术"
+  },
+  {
+    "en": "Swann's Engineering",
+    "cn": "斯旺工程"
+  },
+  {
+    "en": "Swann's Engineering, Level 1",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 10",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 11",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 12",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 13",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 2",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 3",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 4",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 5",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 6",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 7",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 8",
+    "cn": ""
+  },
+  {
+    "en": "Swann's Engineering, Level 9",
+    "cn": ""
+  },
+  {
+    "en": "Swarm Queen",
+    "cn": ""
+  },
+  {
+    "en": "Synchronized",
+    "cn": ""
+  },
+  {
+    "en": "System Hack",
+    "cn": "系统黑客"
+  },
+  {
+    "en": "Weapon System Malware",
+    "cn": ""
+  },
+  {
+    "en": "Tech Thief",
+    "cn": ""
+  },
+  {
+    "en": "Terrazine Addict",
+    "cn": "瘾君子斯台德曼"
+  },
+  {
+    "en": "Top Secret Projects",
+    "cn": "隐密工程"
+  },
+  {
+    "en": "Torrasque Revival",
+    "cn": "托雷斯克复活"
+  },
+  {
+    "en": "U-Corp Research",
+    "cn": ""
+  },
+  {
+    "en": "U-Corp Targeting System",
+    "cn": ""
+  },
+  {
+    "en": "Stunned",
+    "cn": "震惊的"
+  },
+  {
+    "en": "Unbreakable Essence",
+    "cn": "牢不可破的精华"
+  },
+  {
+    "en": "Unchained Engineering",
+    "cn": ""
+  },
+  {
+    "en": "Undercity Junkboss",
+    "cn": ""
+  },
+  {
+    "en": "Undying",
+    "cn": "不死的"
+  },
+  {
+    "en": "Unevolved Spines",
+    "cn": "未缠绕的刺"
+  },
+  {
+    "en": "Unrevivable",
+    "cn": ""
+  },
+  {
+    "en": "Unsparing Essence",
+    "cn": "无情的精华"
+  },
+  {
+    "en": "Unstable Essence",
+    "cn": "不稳定的精华"
+  },
+  {
+    "en": "Verdant Plating",
+    "cn": ""
+  },
+  {
+    "en": "Consume",
+    "cn": "消耗"
+  },
+  {
+    "en": "Void Shade",
+    "cn": "虚空阴影"
+  },
+  {
+    "en": "Waiting 1 Turn",
+    "cn": "等待1回合"
+  },
+  {
+    "en": "Waiting 2 Turns",
+    "cn": "等待2回合"
+  },
+  {
+    "en": "Well Fed",
+    "cn": ""
+  },
+  {
+    "en": "Cloak",
+    "cn": "隐形"
+  },
+  {
+    "en": "Zagara's Brood",
+    "cn": "炸鸡的卵"
+  },
+  {
+    "en": "Maelstrom",
+    "cn": "黑洞"
+  },
+  {
+    "en": "Target is taking damage from Strike Cannons.",
+    "cn": "目标受到突击炮火的伤害。"
+  },
+  {
+    "en": "This unit has increased life.",
+    "cn": "这个单位的生命增加了"
+  },
+  {
+    "en": "This widow mine rearms its missile every 1 second.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +30% movement speed.",
+    "cn": "这个单位的移速提升了30%"
+  },
+  {
+    "en": "This unit cannot move, attack, or be damaged except by action cards and launch effects.",
+    "cn": "除非使用行动卡和战吼效果，否则该单位不能移动、攻击或受到伤害。"
+  },
+  {
+    "en": "At the start of each play phase, Artanis fetches a heroic unit card from his owner's deck. If that fetch succeeds, his owner skips the draw step of the next play phase.",
+    "cn": "回合开始时，该单位从所有者卡组检索一张英雄牌，如果检索成功则跳过所有者下次抽牌。"
+  },
+  {
+    "en": "Each turn this unit adds a different Hive Mind card to her owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has increased shields and damage, and cannot be sacrificed.<n/><n/>Once a unit receives 4 copies of this buff, it becomes \"Fully Ascended\" and gains shield armor.",
+    "cn": ""
+  },
+  {
+    "en": "This unit will leave the battlefield after getting 1 kill.",
+    "cn": "这个单位在击杀一个单位后将会卡其脱离太"
+  },
+  {
+    "en": "The Pride of Augustgrad Battlecruiser is giving this unit bonus range.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +6 range.",
+    "cn": "这个单位获得了+6射程"
+  },
+  {
+    "en": "Your Fusion Core is increasing this unit's energy regeneration rate and halving its ability cooldowns.",
+    "cn": "你的聚变核心增加了该单位的能量恢复速率，并将其技能冷却时间减半。（可叠加）"
+  },
+  {
+    "en": "This structure is permanently cloaked, and only visible to detector units or effects.<n/><n/>This structure cannot be targeted by card effects.",
+    "cn": "此建筑永久隐形，仅对探测器单位或效果可见。此建筑不能被卡牌效果锁定。"
+  },
+  {
+    "en": "This unit has increased damage.",
+    "cn": "这个单位的伤害得到了提升。"
+  },
+  {
+    "en": "This unit has unlimited range, but will leave after 1 turn.",
+    "cn": ""
+  },
+  {
+    "en": "This unit will spawn 2 Broodlings when it dies.",
+    "cn": "该单位死亡时将孵化2个巢虫。"
+  },
+  {
+    "en": "This unit is invulnerable. It is trying to build a structure.",
+    "cn": "无敌的农民正尝试去建造一个建筑。"
+  },
+  {
+    "en": "Granting +1 armor to your ground units.",
+    "cn": "给予你所有的地面单位+1护甲"
+  },
+  {
+    "en": "A Blackhammer Thor is giving this unit bonus armor.",
+    "cn": "黑色战锤正在给予这个单位护甲加成。"
+  },
+  {
+    "en": "This unit has +50% life.",
+    "cn": "这个单位的生命增加了50%。"
+  },
+  {
+    "en": "At the start of each play phase, this unit Devours 1 to give its owner a Locust Spawn card.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is carefully aiming.",
+    "cn": "这个单位正在专注瞄准。"
+  },
+  {
+    "en": "When its owner plays Combat Activation, this unit destroys the most expensive enemy structure.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has unlimited range for 1 turn.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +3 armor.",
+    "cn": "这个单位的护甲+3。"
+  },
+  {
+    "en": "This unit is cloaked unless revealed by detectors or effects.",
+    "cn": ""
+  },
+  {
+    "en": "Friendly ground units close enough to this unit are cloaked.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is cloaked unless revealed by <c val=\"FFE303\">Detectors</c> or effects.",
+    "cn": "这个单位是隐形的除非被<c val=\"FFE303\">侦测器</c> 或卡牌效果暴露"
+  },
+  {
+    "en": "This unit has rapid life regeneration.",
+    "cn": "这个单位正在快速回血。"
+  },
+  {
+    "en": "This unit is recovering 50 energy per second.",
+    "cn": ""
+  },
+  {
+    "en": "This structure can't attack, train units, or use abilities (including passive ones).",
+    "cn": "该建筑不能攻击、训练部队或使用能力（包括buff能力）。"
+  },
+  {
+    "en": "At the start of each battle phase, this unit kills the weakest unit its owner controls in order to gain full energy, +300 shields, and +6 attack.",
+    "cn": ""
+  },
+  {
+    "en": "This unit added a Black Market card to its owner's hand this turn.<n/><n/>It can only do this once per turn.",
+    "cn": ""
+  },
+  {
+    "en": "The first time this unit loads another unit each turn, its owner gains a Black Market card.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each play phase, this unit adds a Simulant Breakout card to its owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "This unit will move around randomly for the rest of the turn instead of attacking or using abilities.",
+    "cn": ""
+  },
+  {
+    "en": "This unit's movement speed is slowed and it cannot attack or use energy-based abilities.",
+    "cn": "该单位的移动速度减慢，不能攻击，也不能使用基于能量的能力。"
+  },
+  {
+    "en": "This unit cannot attack.",
+    "cn": "这个单位不能攻击"
+  },
+  {
+    "en": "This unit has rapid life regeneration and bonus armor, and excretes creep under itself.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each play phase, Artanis fetches the cheapest structure card from his owner's deck. If that fetch succeeds, his owner skips the draw step of the next play phase.",
+    "cn": "回合开始时，该单位从所有者卡组检索一张最便宜的建筑牌，如果检索成功则跳过下次抽牌。"
+  },
+  {
+    "en": "This unit is charging, allowing it to quickly close the distance with its target.",
+    "cn": "这个单位正在冲锋，使其能快速接近目标"
+  },
+  {
+    "en": "This unit has a shield with 200 life.",
+    "cn": "这个单位有一个200的护盾"
+  },
+  {
+    "en": "This unit takes 0 damage from ranged attacks. Melee, splash, and spell attacks still deal damage as normal.",
+    "cn": "这个单位从远程攻击中受到0点伤害。近战、溅射和法术攻击仍然像平常一样造成伤害。"
+  },
+  {
+    "en": "This unit has reduced armor and attack speed, and is being revealed.",
+    "cn": "这个单位降低了装甲和攻击速度，并且正在被暴露。"
+  },
+  {
+    "en": "This unit has +3 damage vs light units.",
+    "cn": ""
+  },
+  {
+    "en": "This structure cannot be targeted by card effects.",
+    "cn": ""
+  },
+  {
+    "en": "Target was hit by EMP, making it permanently visible and removing all energy from it.",
+    "cn": "目标被EMP动作卡击中，使其永久可见，并移除所有能量。"
+  },
+  {
+    "en": "When its owner plays Combat Activation, this unit adds a Crystallized Energy to their hand.",
+    "cn": ""
+  },
+  {
+    "en": "When killed, this unit will add Fenix Reborn to its owner's hand.",
+    "cn": "当被杀死时，这个单位会在其拥有者的手上增加菲鸡重生。"
+  },
+  {
+    "en": "An Evolution Chamber has given this unit increased life.",
+    "cn": "进化腔增加了这个单位的血量。"
+  },
+  {
+    "en": "Each turn this unit adds a Hero Warp card to its owner's hand.",
+    "cn": "该单位每回合都会在其拥有者的手上增加一张英雄折跃卡。"
+  },
+  {
+    "en": "Granting +1 range to your ranged ground units.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit leaves the battlefield, it will be added to its owner's Flight Instructor card as a new Viking or Wraith (chosen randomly).",
+    "cn": "当这个单位离开战场时，它将作为一个新的围巾或怨灵（随机选择）加入其所有者的飞行教练卡。"
+  },
+  {
+    "en": "This unit has +100 life.",
+    "cn": "这个单位的血量增加了100。"
+  },
+  {
+    "en": "Each turn, this unit removes one of its Dark Templar. Whenever it does, it gains +350 shields and adds a Forbidden Knowledge card to its owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "When the owner of this unit sends units via a Warp card, this unit has a 50% chance to send copies from the cliff.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has increased shield armor. This effect was granted by being Ascended 4 times.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit dies, nearby units get hit by Fungal Growth which lasts 10 seconds and deals 75 damage over time.<n/><n/>This effect starts with 2.25 range, but gets +1.25 for every 100 maximum life of this unit.",
+    "cn": ""
+  },
+  {
+    "en": "Target is affected by Fungal Growth. Target is detected and has restricted movement.",
+    "cn": ""
+  },
+  {
+    "en": "This unit costs gas every turn until it dies.<n/><n/>You don't have to pay for units that are still waiting to move out.",
+    "cn": "维护：1瓦斯"
+  },
+  {
+    "en": "When this unit leaves the battlefield, it will be added to its owner's Goliath Instructor card as a new Goliath.",
+    "cn": "当这个单位离开战场时，它将作为一个歌利亚被添加到其所有者的歌利亚教练卡中。"
+  },
+  {
+    "en": "This unit has bonus armor.",
+    "cn": ""
+  },
+  {
+    "en": "Target is being lifted in the air and is now vulnerable to air attacks. This unit cannot attack or use abilities until the Graviton Beam ends.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +3 range and +6 damage.",
+    "cn": "这个单位的射程+3攻击+6"
+  },
+  {
+    "en": "This unit increases its owner's hand size by 1.",
+    "cn": "该单位增加拥有者手牌上限1"
+  },
+  {
+    "en": "This unit increases its owner's hand size by 2.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit leaves the battlefield, it will be added to its owner's Heavy Suit Instructor card as a new Firebat or Marauder (chosen randomly).",
+    "cn": "当这个单位离开战场时，它将作为一个新的火蝠或光头哥（随机选择）被添加到它的拥有者的重型套装教练卡中。"
+  },
+  {
+    "en": "When this unit dies, it adds 1 Simulant Parts to its owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has double life, double shields, +3 armor, and +50% attack damage compared to a non-heroic version.",
+    "cn": "英雄单位拥有双倍血盾，并+3护甲+50%伤害"
+  },
+  {
+    "en": "Raider's Cache is giving this unit bonus damage and armor.",
+    "cn": "突击队工程站正在给予这个单位额外的伤害和护甲"
+  },
+  {
+    "en": "This heroic unit's stats have been suppressed back to their non-heroic state.",
+    "cn": "这个单位被移除了英雄buff"
+  },
+  {
+    "en": "This unit has boosted life, armor, and damage.",
+    "cn": "这个单位提高了生命、护甲和伤害。"
+  },
+  {
+    "en": "This unit has +15 armor.",
+    "cn": "这个单位+15护甲"
+  },
+  {
+    "en": "A Ballistics Bay is giving this unit bonus range and the ability to ignore some enemy armor.",
+    "cn": ""
+  },
+  {
+    "en": "An Armory is giving this unit bonus damage and armor.",
+    "cn": "军械库正在给予这个单位伤害和护甲加成"
+  },
+  {
+    "en": "An Engineering Bay is giving this unit bonus damage and armor.",
+    "cn": "工程站正在给予这个单位伤害和护甲加成"
+  },
+  {
+    "en": "When this unit kills another unit, its owner sends 1 Marine.",
+    "cn": "激励补员：每击杀一单位，给予一好兄弟"
+  },
+  {
+    "en": "This unit cannot be Mind Controlled.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn it turns 4 of its owner's Infested Civilians into 2 random Infested Mech cards.",
+    "cn": ""
+  },
+  {
+    "en": "This unit counts as biological and has life regeneration.",
+    "cn": ""
+  },
+  {
+    "en": "This unit's energy, detection, and cloaking are permanently removed.",
+    "cn": ""
+  },
+  {
+    "en": "Nearby biological units take damage over time.",
+    "cn": "附近的生物单位受到伤害"
+  },
+  {
+    "en": "When this unit is killed, its owner casts 1 Psionic Storm for each heroic unit they have lost this game.",
+    "cn": "亡语：释放截至此单位死亡时本局游戏你共计死亡英雄单位数量的灵能风暴（无上限）"
+  },
+  {
+    "en": "At the start of each battle phase, Karax chooses a random mechanical unit, then gives his owner a copy of the card that created it.",
+    "cn": "在每个战斗阶段开始时，凯拉克斯随机选择全场所有人的任何一个机械单位，然后给你一张创建它的卡的副本。"
+  },
+  {
+    "en": "This unit has been targeted by an Overclocked Cyclone's Lock On ability.",
+    "cn": ""
+  },
+  {
+    "en": "This unit smuggled some loot this turn, returning an Action from its owner's discard pile to their hand.<n/><n/>It can only do this once per turn.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is permanently cloaked, and only visible to detector units or effects.",
+    "cn": "这个单位永久隐形"
+  },
+  {
+    "en": "This unit has +40% attack and +60% movement speed.",
+    "cn": "这个单位增加40%攻速60%移速"
+  },
+  {
+    "en": "This unit has 400 maximum energy and 100 bonus life.",
+    "cn": ""
+  },
+  {
+    "en": "This unit was killed by Mind Blast.",
+    "cn": "这个单位被心灵震爆从游戏中移除"
+  },
+  {
+    "en": "This unit costs minerals every turn until it dies.<n/><n/>You don't have to pay for units that are still waiting to move out.",
+    "cn": "维护：水晶<n/><n/>当这个单位处于等待状态时没有维护"
+  },
+  {
+    "en": "Your Ghost Academy is increasing this unit's energy regeneration rate.",
+    "cn": "你的幽灵军校正在增加这个单位的能量回复率。"
+  },
+  {
+    "en": "This unit has increased life and damage.",
+    "cn": "这个单位的生命和伤害增加了"
+  },
+  {
+    "en": "This unit has double damage.",
+    "cn": "这个单位伤害翻倍。"
+  },
+  {
+    "en": "If its owner plays an Evolution card, this unit morphs into its upgraded form.",
+    "cn": "如果其拥有者使用进化卡，该单位将变形为其升级形态。"
+  },
+  {
+    "en": "This unit can't be directly targeted by card effects.",
+    "cn": "这个单位不能直接被卡牌效果影响（但可以被aoe型卡牌效果波及）。"
+  },
+  {
+    "en": "A Neosteel Armory is giving this unit bonus armor.",
+    "cn": "精钢军械库正在给予这个单位护甲加成。"
+  },
+  {
+    "en": "This unit is being controlled by an Infestor.",
+    "cn": ""
+  },
+  {
+    "en": "This unit or structure is revealed.",
+    "cn": "这个单位或建筑被暴露了"
+  },
+  {
+    "en": "This structure has temporary bonus damage and bonus range.",
+    "cn": "你的钥石具有临时加成伤害和加成范围，现在它能攻击更多的敌方单位来吸引更多的仇恨到你的钥石了。"
+  },
+  {
+    "en": "This unit's Yamato Cannon cooldown is greatly reduced.",
+    "cn": ""
+  },
+  {
+    "en": "When this structure dies, it adds Overmind's Covenant to its owner's hand.",
+    "cn": "当这个建筑被摧毁时，向其拥有者中添加一张主宰的契约牌"
+  },
+  {
+    "en": "This unit has reduced movement speed and is revealed.",
+    "cn": "该装置降低了移动速度，并被暴露。"
+  },
+  {
+    "en": "This unit or structure is permanently revealed.",
+    "cn": "这个单位或建筑被永久暴露了"
+  },
+  {
+    "en": "When this unit dies, it will be revived as a Dragoon.",
+    "cn": "当它死亡时，将变为龙骑重回战场。"
+  },
+  {
+    "en": "This unit or structure is revealed and its life is being depleted.",
+    "cn": "该单元或建筑被污染，其生命正在耗尽。"
+  },
+  {
+    "en": "This unit has +4 range.",
+    "cn": "这个单位+4射程"
+  },
+  {
+    "en": "This unit is giving all players +1 mineral income.",
+    "cn": "这个单位会给予本局游戏所有玩家（包括对手）一点水晶产能。"
+  },
+  {
+    "en": "Target is under the effects of Psionic Storm and will take massive damage while in this area of effect.",
+    "cn": "目标受到灵能风暴的影响，在该作用区域内将受到巨大伤害。"
+  },
+  {
+    "en": "This unit blocks 75% of all spell damage.",
+    "cn": "该单位阻挡所有法术伤害的75%。"
+  },
+  {
+    "en": "Each turn this unit plays a random action card from its owner's hand, and whenever it plays one its owner draws a card.",
+    "cn": "每回合该单位从其拥有者手上随机打出一张行动卡，每当它打出一张时，其拥有者就会抽一张卡。"
+  },
+  {
+    "en": "At the start of each battle phase, this unit destroys the closest enemy structure. Unlike many removal effects, multiple Purification Carriers can choose the same target.",
+    "cn": ""
+  },
+  {
+    "en": "This structure has a powerful long-ranged attack.",
+    "cn": "该建筑具有强大的远程攻击嘲讽能力。"
+  },
+  {
+    "en": "This unit's weapon makes targets Irradiated.",
+    "cn": ""
+  },
+  {
+    "en": "This unit was selected as its owner's champion, granting it +600 life. Units with less combined life and shields get removed, lending their strength to the champion.",
+    "cn": "该单位被选为升格第一人，授予其+600生命。生命和盾牌较少的单位将被移除，从而为升格者提供力量。"
+  },
+  {
+    "en": "Weapons and abilities are disabled.",
+    "cn": "武器和能力被禁用"
+  },
+  {
+    "en": "This unit has unlimited range until it kills its target.",
+    "cn": "这个单位的射程无限直至击杀它的攻击目标。"
+  },
+  {
+    "en": "Granting +15% damage and +1 armor to your team's heroic ground units.",
+    "cn": "给予你的团队英雄地面单位+15%的伤害和+1护甲。"
+  },
+  {
+    "en": "Jim Raynor is giving this unit bonus damage and armor.",
+    "cn": "雷诺正在给予这个单位伤害和护甲加成。"
+  },
+  {
+    "en": "Each turn this unit sets the mineral cost of a random unit card in your hand to 0.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each play phase, this unit returns its owner's cheapest card with Rebirth from their discard pile to their hand. If successful, they skip the draw step of the next play phase.",
+    "cn": ""
+  },
+  {
+    "en": "When this structure dies, it returns to its owner's hand.",
+    "cn": "当这个建筑被摧毁时，返还到其拥有者手牌中"
+  },
+  {
+    "en": "This unit has +5 damage vs armored units.",
+    "cn": ""
+  },
+  {
+    "en": "This unit's detection is permanently disabled.",
+    "cn": "这个单位的侦测能力被永久移除"
+  },
+  {
+    "en": "This unit has +3 damage.",
+    "cn": "这个单位+3伤害"
+  },
+  {
+    "en": "At the start of each play phase, this unit's owner draws an extra card.",
+    "cn": "在每个游戏阶段开始时，该单位的所有者额外抽取一张牌。"
+  },
+  {
+    "en": "This unit has +1500 shields and +1 shield armor.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is invulnerable until the Shield Projector is destroyed.",
+    "cn": "这个单位是无敌的直至盾牌投影器被摧毁。"
+  },
+  {
+    "en": "This unit has +10 range.",
+    "cn": "这个单位射程+10"
+  },
+  {
+    "en": "This unit has +12 range.",
+    "cn": "这个单位射程+12"
+  },
+  {
+    "en": "The first time this unit kills a unit each turn, its owner returns an Action from their discard pile to their hand.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has +3 range and can't be chosen as the target of enemy card effects.",
+    "cn": "这个单位拥有+3射程且不能被选为敌人卡牌效果的目标。"
+  },
+  {
+    "en": "This structure cannot do anything and cannot be damaged.",
+    "cn": "这个建筑并没有什么卵用，而且不能被摧毁。"
+  },
+  {
+    "en": "This unit cannot move, attack, or be damaged except by action cards and launch effects. Its passive abilities are also disabled.<n/><n/>Lasts until the unit or structure that created the Stasis Prison is destroyed.",
+    "cn": "除非行动卡和战吼效果，否则该单位不能移动、攻击或被损坏，直到囚禁它的单位或建筑被摧毁。"
+  },
+  {
+    "en": "This unit can only attack structures.",
+    "cn": "这个单位只能攻击建筑。"
+  },
+  {
+    "en": "This unit has +40 damage.",
+    "cn": "这个单位+40伤害"
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 1 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 10 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 11 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 12 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 13 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 2 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 3 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 4 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 5 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 6 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 7 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 8 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn Swann recovers the cheapest Terran mechanical unit card from his owner's discard pile that costs more than any card he has recovered so far.<n/><n/>Swann will recover a card that costs 9 or more next.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn this unit adds Kerrigan's Swarm to her owner's hand.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has unlimited range for 8 seconds, or until it kills its target.",
+    "cn": ""
+  },
+  {
+    "en": "This unit has -3 range and 75% attack speed.",
+    "cn": ""
+  },
+  {
+    "en": "Whenever this unit Abducts an enemy unit, its owner gets a 0-cost Black Market card.",
+    "cn": ""
+  },
+  {
+    "en": "At the start of each play phase, this unit's owner adds a Terrazine Canister to his or her hand.",
+    "cn": "在每个游戏阶段开始时，这个单位的会在其拥有者的手上添加一个地嗪罐。"
+  },
+  {
+    "en": "This unit adds a 2 or less cost Terran action card to its owners hand whenever they play a card that sends energy units. Only adds cards with no subtype.",
+    "cn": "该单位在其拥有者使用发送能量单位的牌时，向其手上添加一张2或更少费用的人族行动卡。只添加没有子类型的卡。"
+  },
+  {
+    "en": "When this unit dies, a Torrasque Revival card is shuffled into its owner's deck.",
+    "cn": "当该单位死亡时，一张托雷斯克复活卡被洗入到其所有者的牌堆中。"
+  },
+  {
+    "en": "Each turn this unit reduces the gas cost of each Umojan card in his owners hand by 1.",
+    "cn": ""
+  },
+  {
+    "en": "This unit is stunned by Ultrasonic Pulse.",
+    "cn": "这个单位被超声波脉冲震晕了"
+  },
+  {
+    "en": "This unit has +3 armor.<n/><n/>Whenever this unit takes damage it shoots a 20 damage spine back at the attacker.",
+    "cn": "该单位拥有+3护甲。每当该单位受到伤害时，它会向攻击者回击一个20点伤害（即使这个伤害是0）。"
+  },
+  {
+    "en": "Each turn this unit regains Interceptors up to 8.",
+    "cn": ""
+  },
+  {
+    "en": "Whenever this unit's owner discards a card from hand, this unit recovers a random card that sends mechanical units and costs 5 or less.",
+    "cn": ""
+  },
+  {
+    "en": "When this unit dies, it returns to its owner's hand.",
+    "cn": "当这个单位死亡时，它会回到它的拥有者手中。"
+  },
+  {
+    "en": "This unit has -1 range.",
+    "cn": "这个单位射程-1"
+  },
+  {
+    "en": "This unit's essence was used to create an Infested Mech card, so it cannot be revived.",
+    "cn": ""
+  },
+  {
+    "en": "This unit deals +200% damage. It also deals 20 damage per second to nearby enemy units.",
+    "cn": "该单位造成+200%伤害。它还每秒对附近的敌人单位造成20点伤害。"
+  },
+  {
+    "en": "This unit will spawn 16 Winged Creepers when it dies.",
+    "cn": "这个单位死后将孵化16只原始蝗虫。"
+  },
+  {
+    "en": "This unit will spawn 16 Creepers when it dies.",
+    "cn": "这个单位死后将孵化16只原始蝗虫。"
+  },
+  {
+    "en": "This unit has +2 armor.",
+    "cn": ""
+  },
+  {
+    "en": "This structure is being destroyed.",
+    "cn": "这个建筑将被摧毁。"
+  },
+  {
+    "en": "This unit came from the Void.",
+    "cn": "这个单位来自虚空。"
+  },
+  {
+    "en": "This unit will wait 1 more turn before moving out. While it waits it is invulnerable, but it can't attack.",
+    "cn": "该单位将再等待一回合，然后再前进。当它等待时，它是无敌的，但不能攻击。"
+  },
+  {
+    "en": "This unit will wait 2 more turns before moving out. While it waits it is invulnerable, but it can't attack.",
+    "cn": "该单位将再等待两回合，然后再前进。当它等待时，它是无敌的，但不能攻击。"
+  },
+  {
+    "en": "This unit is cloaked and will only be revealed by detectors or effects.",
+    "cn": "这个单位是隐形的，只有探测器或卡牌效果才能显示出来。"
+  },
+  {
+    "en": "Each turn this unit combines all of the free Spawn cards in its owner's hand into one Spawn card, then doubles the unit count on the combined card.",
+    "cn": "每回合该单位将其拥有者手中的所有免费产卵卡组合成一张产卵卡，然后将组合卡上的单位数加倍。"
+  },
+  {
+    "en": "This unit is temporarily stunned.",
+    "cn": "这个单位暂时昏迷。"
+  },
+  {
+    "en": "Build Cyclone",
+    "cn": ""
+  },
+  {
+    "en": "Build Goliath",
+    "cn": "生产歌莉娅"
+  },
+  {
+    "en": "Build Psi Disruptor",
+    "cn": "生产炸屎球"
+  },
+  {
+    "en": "Build Reaper Bar",
+    "cn": ""
+  },
+  {
+    "en": "Build Vulture",
+    "cn": "生产秃鹫"
+  },
+  {
+    "en": "Build Vulture Factory",
+    "cn": "建造重工"
+  },
+  {
+    "en": "Build Wraith",
+    "cn": "生产怨灵"
+  },
+  {
+    "en": "Glevig Tunnel",
+    "cn": "格里维格"
+  },
+  {
+    "en": "Train Marine",
+    "cn": "生产好兄弟"
+  },
+  {
+    "en": "Corrosive Bile",
+    "cn": ""
+  },
+  {
+    "en": "Warp In Dragoon",
+    "cn": "折跃龙骑"
+  },
+  {
+    "en": "Warp In Supplicant",
+    "cn": ""
+  },
+  {
+    "en": "When destroyed, 1 Immortal and 5 mechanical Zealots controlled by the enemy team will emerge.",
+    "cn": ""
+  },
+  {
+    "en": "When killed, its owner gets a Containment Protocol card.",
+    "cn": ""
+  },
+  {
+    "en": "Its owner fetches a Purifier card whenever they play a Combat Activation card. If the fetch succeeds, they skip their next draw step.",
+    "cn": "每当玩家打出战斗激活卡时就会检索一张净化卡。如果检索成功，跳过下一个抽牌阶段。"
+  },
+  {
+    "en": "Heavy-fire support mech.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "重型火力支援机械装置。<n/><n/><c val=\"#ColorAttackInfo\">可以攻击地面和空中部队。</c>"
+  },
+  {
+    "en": "Psionic support ship. Cloaks nearby allied units.<n/><n/>Uses Stasis Field on clusters of enemy units, which stuns them and makes them invulnerable for 30 seconds.<n/><n/>Uses Recall to save retreating tactical units.",
+    "cn": ""
+  },
+  {
+    "en": "Powerful psionic attacker.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": "强大的灵能战士<n/><n/><c val=\"ffff8a\">能攻击地面和空中单位</c>"
+  },
+  {
+    "en": "Orders 3 of its owner's non-heroic Marines to leave the battlefield each turn. Outfits Marines that leave with heroic equipment, and resends them.",
+    "cn": "命令其所有者的3名非英雄陆战队员每回合离开战场，每离开一个下回合发送一名英雄陆战队员。"
+  },
+  {
+    "en": "Gives its owner's mechanical units +15% damage and +1 armor.",
+    "cn": "给它拥有者的机械单位+15%伤害和+1护甲。"
+  },
+  {
+    "en": "Increases its owner's maximum gas income by 1.",
+    "cn": "将其所有者的瓦斯产能上限增加1。"
+  },
+  {
+    "en": "Gives its owner's biological ranged units +1 range and makes their attacks ignore 2 armor.",
+    "cn": ""
+  },
+  {
+    "en": "Suicide unit. Does damage over a small area on death. <n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": "自杀式攻击单位，在死亡时对小范围造成伤害。。<n/><n/><c val=\"ffff8a\">能攻击地面单位"
+  },
+  {
+    "en": "Adds a Baneling Spawn card to its owner's hand each play phase.",
+    "cn": "在每个游戏阶段向其所有者的手上添加一张毒爆卵卡。"
+  },
+  {
+    "en": "Tactical-strike aircraft. Can be upgraded to use cloak.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Sends 2 Marines each battle phase. If you attach a Reactor it sends 4 Marines instead. If you attach a Tech Lab it sends 2 Marauders instead.",
+    "cn": "每个战斗阶段生产2名好兄弟。如果你安装了一个反应堆，它会生产4名好兄弟。如果你搭载了一个科技挂件，它转为生产2名掠夺者。"
+  },
+  {
+    "en": "Powerful warship. Can use Yamato Cannon and Tactical Jump.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "强大的泰伦终极飞船。能使用大和炮和战术折跃。<n/><n/><c val=\"#ColorAttackInfo\">这是个陷阱！弃船！</c>"
+  },
+  {
+    "en": "Flying heavy-assault unit. Shoots Broodlings at its target. A Broodling is a small creature that can attack ground units.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "空中重型单位，向攻击目标投掷巢虫。巢虫是一种能攻击地面单位的小型生物。<n/><n/><c val=\"#ColorAttackInfo\">能攻击地面单位。</c>"
+  },
+  {
+    "en": "Fast melee creature that will last for a short duration.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Mobile assault vehicle. Can use Lock On to quickly fire while moving.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Anti-air defensive structure.<n/><n/><c val=\"#ColorAttackInfo\">Can attack air units.</c><n/><c val=\"FFE303\">Detector</c>",
+    "cn": "防空建筑。<n/><n/><c val=“#ColorAttackInfo”>可以攻击空中单位。</c><n/><c val=“FFE303”>侦测器</c>"
+  },
+  {
+    "en": "Sends 2 Reapers each battle phase.",
+    "cn": ""
+  },
+  {
+    "en": "Fast scout.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "快速的侦察单位。<n/><n/><c val=“#ColorAttackInfo”>可以攻击地面单位。</c>"
+  },
+  {
+    "en": "Sends 1 Hellbat each battle phase. If you attach a Reactor it sends 2 Hellbats instead. If you attach a Tech Lab it sends 1 Siege Tank instead.",
+    "cn": "每个战斗阶段生产1个地狱蝙蝠。如果你搭载了一个反应堆，它会发送2个地狱蝙蝠。如果你搭载了一个科技实验室，它会生产一辆攻城坦克。"
+  },
+  {
+    "en": "Stealth anti-air fighter.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "隐形防空战机。<n/><n/><c val=\"#ColorAttackInfo\">能攻击空中和地面单位。</c>"
+  },
+  {
+    "en": "Defensive structure. <n/>Infantry fights from inside. <n/><n/><c val=\"#ColorAttackInfo\">Bonus: +1 range to units inside.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Capital ship. Can build and launch Interceptors to make attacks.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": "主力舰。可以建造和发射拦截机进行攻击。<n/><n/><c val=\"ffff8a\">可以攻击地面和空中部队。</c>"
+  },
+  {
+    "en": "Whenever its owner plays an Evolution card, this structure (1) gives all of its owner's units +10 life and (2) draws its owner a card.",
+    "cn": "每当它的拥有者打出一张进化牌时，这个建筑（1）给它拥有者的所有单位+10生命，（2）抽一张牌。"
+  },
+  {
+    "en": "Whenever its owner gains a 0-cost spawn card, they send copies of all of the units on that card.",
+    "cn": "每当其拥有者获得一张0成本的卵卡时，他们就会发送该卡上所有单位的复制。"
+  },
+  {
+    "en": "Inside this cocoon is a powerful psionic being undergoing infestation.",
+    "cn": "凯姐在里面孵化，过一会儿就钻出来了"
+  },
+  {
+    "en": "With the touch of a button, the high speed Zoomba collects dirt, pet hair, and other debris from all areas.",
+    "cn": ""
+  },
+  {
+    "en": "Battle strider with a powerful area attack. Can step up and down cliffs. Can be targeted by anti-air weapons.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": "具有强大AOE的战斗者。可以跨越悬崖，可以被防空武器瞄准。<n/><n/><c val=\"ffff8a\">可以攻击地面单位。</c>"
+  },
+  {
+    "en": "General-purpose infantry.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "通用步兵。<n/><n/><c val=\"#ColorAttackInfo\">可以攻击地面和空中部队。</c>"
+  },
+  {
+    "en": "Anti-air flyer. Can use Caustic Spray. Can morph into a Brood Lord.<n/><n/><c val=\"#ColorAttackInfo\">Can attack air units.</c>",
+    "cn": "防空飞行单位。可以使用腐蚀性喷雾。可以变形为一个巢虫领主。<n/><n/><c val=\"#ColorAttackInfo\">可以攻击空中单位。</c>"
+  },
+  {
+    "en": "Mobile air fighter. Uses Disruption Web on clusters of ground units, disabling their weapons.<n/><n/><c val=\"ffff8a\">Can attack air units.</c>",
+    "cn": "机动战斗机。在地面部队集群上使用干扰网，使其武器失效。<n/><n/><c val=\"ffff8a\">可以攻击空中单位。</c>"
+  },
+  {
+    "en": "Just a box, nothing to see here. Wait, did it just move?!",
+    "cn": "只是一个盒子，没什么好看的。等等，它动了吗？！"
+  },
+  {
+    "en": "Small insect native to Redstone. When its colony is threatened it can explode, spraying lava on the intruder.",
+    "cn": "红色毒爆！BOOM！"
+  },
+  {
+    "en": "This was once the utility bot of choice, but it is no longer in production. This one has seen better days.",
+    "cn": ""
+  },
+  {
+    "en": "Gives a 50% chance to revive its owner's slain biological Protoss units as Stalkers. Controlling multiple Cybernetics Cores will increase the revive chance.",
+    "cn": "有50%的几率复活其拥有者死亡的神族生物单位作为鸡猎。（可叠加）"
+  },
+  {
+    "en": "Each turn it converts 1 biological Protoss unit on a card in its owner's hand into a Dark Templar.",
+    "cn": "每回合它都会将其拥有者手中一张牌上的1个神族生物单位转化为一个黑暗圣堂武士。"
+  },
+  {
+    "en": "Deadly warrior-assassin. Cloak renders the unit invisible to enemies without detection. Can transform into an Archon.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Support caster.<n/><n/>Uses Dark Swarm to protect allied units from ranged damage.<n/><n/>Uses Plague on clusters of enemy units, dealing damage over time.",
+    "cn": "支援施法者。<n/><n/>使用黄雾保护友方单位免受远程伤害。<n/><n/>对敌对单位群使用瘟疫，随时间造成伤害。"
+  },
+  {
+    "en": "A powerful primal Zerg. Has the Frenzy buff which makes it immune to most movement modifying abilities.",
+    "cn": "强大的原始虫族。拥有狂暴buff，对大多数控制技能免疫。"
+  },
+  {
+    "en": "Suicide unit. Can swoop towards air or ground units and explode.",
+    "cn": "自杀单位。可以向空中或地面单位俯冲并爆炸。"
+  },
+  {
+    "en": "Primal pack leader. Automatically shoots a 20 damage spine at anyone who damages him.",
+    "cn": "原始部落首领。自动向任何伤害它的人反击20点伤害。"
+  },
+  {
+    "en": "Primal pack leader. Spits powerful fireballs at a long range.",
+    "cn": "原始部落首领。向远距离喷出强大的火球。"
+  },
+  {
+    "en": "A stationary defensive detector. Can move forward once per battle phase.",
+    "cn": "固定防御探测器。每个战斗阶段可以向前移动一次。"
+  },
+  {
+    "en": "Robotic disruption unit. Can use Purification Nova to deal heavy area damage.",
+    "cn": "机械干扰单位。可以使用净化新星造成伤害。"
+  },
+  {
+    "en": "Ranged assault strider.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": "远程攻击单位。<n/><n/><c val=\"ffff8a\">能攻击空中和地面单位。</c>"
+  },
+  {
+    "en": "Sends 1 Dragoon each battle phase.",
+    "cn": "每回合生产一龙骑"
+  },
+  {
+    "en": "Basic worker unit. Can harvest minerals and vespene gas. Can mutate into structures.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Gives its owner's biological units +15% damage and +1 armor.",
+    "cn": "给它拥有者的生物单位+15%伤害和+1护甲。"
+  },
+  {
+    "en": "Sends 1 Hellbat each battle phase. If you attach a Reactor it sends 2 Hellbats instead. If you attach a Tech Lab it sends 1 Siege Tank instead. If you attach a Machine Shop it sends 1 Goliath instead.",
+    "cn": "每个战斗阶段生产1个地狱蝙蝠。如果你搭载了一个反应堆，它会发送2个地狱蝙蝠。如果你搭载了一个科技实验室，它会生产一辆攻城坦克。"
+  },
+  {
+    "en": "Sends 1 Cyclone each battle phase. If you attach a Reactor it sends 2 Cyclones instead. If you attach a Tech Lab it sends 1 Siege Tank instead. If you attach a Machine Shop it sends 1 Goliath instead.",
+    "cn": ""
+  },
+  {
+    "en": "Sends 1 Vulture each battle phase. If you attach a Reactor it sends 2 Vultures instead. If you attach a Tech Lab it sends 1 Siege Tank instead. If you attach a Machine Shop it sends 1 Goliath instead.",
+    "cn": "每个战斗阶段生产1个秃鹫。如果你搭载了一个反应堆，它会发送2个秃鹫。如果你搭载了一个科技实验室，它会生产一辆攻城坦克。"
+  },
+  {
+    "en": "Heavy flamethrower infantry.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "重型火焰喷射器步兵。<n/><n/><c val=\"#ColorAttackInfo\">可以攻击地面部队。</c>"
+  },
+  {
+    "en": "Each turn it fetches a unit card that sends Carriers or Tempests from its owner's deck. If that fetch succeeds, its owner skips the draw step of the next play phase.",
+    "cn": "每回合它都会从其拥有者的牌组中检索一张含有航母或风暴的单位卡，如果成功，其所有者将跳过下一个抽牌阶段。"
+  },
+  {
+    "en": "Sends a Probe to build a Photon Cannon whenever its owner plays a structure card.",
+    "cn": "每当它的拥有者打出一张建筑牌时，就建造一个光子炮台。"
+  },
+  {
+    "en": "Increases the energy regeneration rate of its owner's units, and halves their ability cooldowns.",
+    "cn": "增加其拥有者单位的能量再生率，并将其技能冷却时间减半。"
+  },
+  {
+    "en": "Sends 1 Zealot each battle phase.",
+    "cn": "每回合生产一叉子"
+  },
+  {
+    "en": "Sends 1 Stalker each battle phase.",
+    "cn": "每回合生产一鸡猎"
+  },
+  {
+    "en": "Sends 1 Supplicant each battle phase.",
+    "cn": "每回合生产一死徒"
+  },
+  {
+    "en": "Destroy the enemy Xel'Naga Keystone to win, and protect yours at all costs!",
+    "cn": "摧毁敌方的钥石以赢得胜利，并不惜一切代价保护你的钥石！"
+  },
+  {
+    "en": "Sniper.<n/><n/>Uses Steady Targeting on tough biological targets, which deals solid damage.<n/><n/>Uses EMP Round on clusters of units with shields, energy, or cloaking. EMP Round drains shields and energy, and temporarily reveals cloaked units.<n/><n/>If Tactical, uses Cloak when retreating.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "狙击手。<n/><n/>对肉的生物目标使用稳定的瞄准，造成物理伤害。<n/><n/>对拥有盾牌、能量或隐身的单位群使用EMP，EMP回合清除盾牌和能量，并暂时暴露隐形单位。<n/><n/>如果是战术单位，则在撤退时使用隐形。<n/><n/><c val=\"#ColorAttackInfo\">可以攻击地面和空中单位。</c>"
+  },
+  {
+    "en": "Gives Ghosts and Spectres +3 range.<n/><n/>Prevents enemy card effects from targeting Ghosts and Spectres.",
+    "cn": "为幽魂和幽灵提供+3射程。<n/><n/>防止敌人卡牌效果直接以幽魂和幽灵为目标。"
+  },
+  {
+    "en": "Mysterious sniper.<n/><n/>Uses Steady Targeting on tough biological targets, which deals solid damage.<n/><n/>Uses EMP Round on clusters of units with shields, energy, or cloaking. EMP Round drains shields and energy, and temporarily reveals cloaked units.<c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "神秘狙击手。<n/><n/>对肉的生物目标使用稳定的瞄准，造成物理伤害。<n/><n/>对拥有盾牌、能量或隐身的单位群使用EMP，EMP回合清除盾牌和能量，并暂时暴露隐形单位。<n/><n/>如果是战术单位，则在撤退时使用隐形。<c val=\"#ColorAttackInfo\">可以攻击地面和空中单位。</c>"
+  },
+  {
+    "en": "Adds a Brood Lord Spawn card to its owner's hand each play phase.",
+    "cn": "在每个游戏阶段将一张巢虫领主卵牌添加到其所有者的手牌中。"
+  },
+  {
+    "en": "Suicide unit. Does damage over a small area on death.",
+    "cn": "自杀单位。在死亡时对小范围造成伤害。"
+  },
+  {
+    "en": "Fast scout. Has a flame attack that damages all enemy units in its line of fire. Can transform into a close range combat unit.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Close range combat unit. Deals damage in a small frontal cone. Can transform into a fast scout unit.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Each turn this structure casts 1 Psionic Storm for each subtype in its owner's discard pile.",
+    "cn": ""
+  },
+  {
+    "en": "Potent psionic master.<n/><n/>Uses Psionic Storm on clusters of enemy units, dealing damage over time.<n/><n/>Uses Feedback on units with energy, which drains that energy and deals damage to the target.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": "强大的灵能大师。<n/><n/>对敌人单位群使用灵能风暴，随时间造成伤害。<n/><n/>对能量单位使用反馈，消耗能量并对目标造成伤害。<n/><n/><c val=\"ffff8a\">可以攻击地面单位。</c>"
+  },
+  {
+    "en": "Highlord of the Tal'darim.<n/><n/>Uses Destruction Wave on clusters of enemy units, dealing 50 damage in an area.",
+    "cn": "塔达林的高阶领主。<n/><n/>使用湮灭波对敌对单位集群造成伤害"
+  },
+  {
+    "en": "Powerful hybrid monster. Can be upgraded to have extremely high armor.",
+    "cn": "强大的混合体怪物，可以升级为拥有极高的护甲。"
+  },
+  {
+    "en": "Psionic hybrid monster.",
+    "cn": "灵能混合怪物。"
+  },
+  {
+    "en": "Psionic hybrid monster.<n/><n/>Uses Psi Storm on clusters of enemy units, dealing damage over time.<n/><n/>Uses Psionic Shockwave when surrounded, dealing damage to all nearby enemy units.",
+    "cn": ""
+  },
+  {
+    "en": "Flying hybrid. Can be upgraded to have increased range.",
+    "cn": "飞行混合体。可以升级射程。"
+  },
+  {
+    "en": "Powerful hybrid monster.",
+    "cn": "强大的混合体怪物。"
+  },
+  {
+    "en": "Ranged attacker. Can morph into a Lurker.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": "远程攻击者。可以变形为潜伏者。<n/><n/><c val=\"ffff8a\">可以攻击地面和空中单位。</c>"
+  },
+  {
+    "en": "Adds a Hydralisk Spawn card to its owner's hand each play phase.",
+    "cn": "在每个游戏阶段将一张刺蛇卵牌加入到其拥有者的手牌中。"
+  },
+  {
+    "en": "Assault strider. Can use Barrier to absorb damage.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": "重型突击单位。能使用屏障吸收伤害。<n/><n/><c val=\"ffff8a\">能攻击地面单位</c>"
+  },
+  {
+    "en": "Aerial support unit.<n/><n/><c val=\"FFE303\">Detector</c>",
+    "cn": "空中支援装置。<n/><n/><c val=“FFE303”>侦测器"
+  },
+  {
+    "en": "Gives its owner a 99% chance to revive slain Infested units as Infested Civilians.",
+    "cn": ""
+  },
+  {
+    "en": "Infestation specialist. Uses Fungal Growth on clusters of enemy units, which reduces their movement and deals damage over time.<n/><n/>Uses Microbial Shroud to protect friendly units from air attacks.",
+    "cn": "感染专家。使用真菌生长在敌方单位集群上，随着时间的推移减少其移速并造成伤害。<n/><n/>使用微生物覆盖物保护友军单位免受空军伤害。"
+  },
+  {
+    "en": "An Infested Terran does moderate damage.<n/><n/><c val=\"FFFF8A\">Can attack ground and air units.</c>",
+    "cn": "受感染的机枪造成中等伤害。<n/><n/><c val=\"FFFF8A\">可以攻击地面和空中单位。</c>"
+  },
+  {
+    "en": "Combat drones that automatically strafe their Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "自动扫射航母目标的战斗无人机。航母在没有拦截器的情况下不能进行攻击。<n/><n/><c val=\"#ColorAttackInfo\">可以攻击地面和空中部队。</c>"
+  },
+  {
+    "en": "Barrier that lasts <d time=\"15\"/> and impedes movement of ground units. Massive units will shatter Force Fields on contact.",
+    "cn": "持续时间<d time=\"15\"/>并阻碍地面单位移动的屏障。巨大的单位在接触时会粉碎力场。"
+  },
+  {
+    "en": "Engineering support unit.",
+    "cn": "工程支援单位"
+  },
+  {
+    "en": "Queen of Blades, ruler of the Zerg.<n/><n/>Uses Psi Storm on clusters of enemy units, dealing damage over time.",
+    "cn": "刀锋女王！<n/><n/>能对敌对单位集群使用灵能风暴"
+  },
+  {
+    "en": "Each turn it adds a Lurker Spawn to its owner's hand if they control no Lurkers.<n/><n/>Each turn it orders one of its owner's Lurkers with no targets in range to unburrow and advance.",
+    "cn": "如果其拥有者没有控制潜伏者，则每回合添加一个潜伏者卵到手牌中。<n/><n/>每回合它都会命令其拥有者的一个射程内没有目标的潜伏者出地并前进。"
+  },
+  {
+    "en": "Anti-ground ambusher. Has a spine attack that damages all enemy units in its line of fire.<n/><n/><c val=\"ffff8a\">Can attack ground units.<n/>Must burrow to attack.</c>",
+    "cn": "反地面埋伏者，以攻击其火力线中的所有敌军单位。<n/><n/><c val=\"ffff8a\">可以攻击地面单位。<n/>必须埋地才能攻击。</c>"
+  },
+  {
+    "en": "Changes the production of the attached structure.",
+    "cn": "更改附着建筑的产能。"
+  },
+  {
+    "en": "Heavy assault infantry.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "重型突击步兵。<n/><n/><c val=\"#ColorAttackInfo\">可以攻击地面单位。</c>"
+  },
+  {
+    "en": "Support healer.",
+    "cn": "治疗型支援单位"
+  },
+  {
+    "en": "Air transport. Heals nearby biological units. Can use Afterburners.",
+    "cn": ""
+  },
+  {
+    "en": "The central hub of the Terran Dominion.",
+    "cn": "帝国的中心枢纽"
+  },
+  {
+    "en": "Hybrid with mechanical armor.",
+    "cn": "有各种寿衣的混合体。"
+  },
+  {
+    "en": "Ultimate Protoss vessel. Cloaks nearby friendly units and structures.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": "终极神族飞船。隐形附近的友军单位和建筑。<n/><n/><c val=\"ffff8a\">可以攻击地面和空中单位。</c>"
+  },
+  {
+    "en": "Mobile flying caster. Can upgrade into the Mothership.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "移动式飞行单位。可以升级到妈妈船。<n/><n/><c val=\"#ColorAttackInfo\">可以给地面单位刮痧。</c>"
+  },
+  {
+    "en": "Primal pack leader. Creates a wave of exploding creepers each turn.",
+    "cn": "原始部落首领，每回合生产一波原始蝗虫。"
+  },
+  {
+    "en": "Air unit. Bounces its shot to strike multiple targets.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": "空军部队。弹射击中多个目标。<n/><n/><c val=\"ffff8a\">可以攻击地面和空中单位。</c>"
+  },
+  {
+    "en": "Each turn one of its owners Roaches, Hydralisks, Mutalisks, or Corruptors mutates into its upgraded form.",
+    "cn": "每回合，其拥有者的蟑螂、刺蛇、飞龙或腐化中的随机一个会变异成它的升级形态。"
+  },
+  {
+    "en": "Gives its owner's mechanical units +2 armor.",
+    "cn": "给它拥有者的机械单位+2护甲。"
+  },
+  {
+    "en": "Sniper.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "狙击手。<n/><n/><c val=\"#ColorAttackInfo\">可以攻击地面和空中单位。</c>"
+  },
+  {
+    "en": "Spreads creep.",
+    "cn": "原始蝗虫"
+  },
+  {
+    "en": "Its owner's ground units have rush and emerge from it.",
+    "cn": "其拥有者的地面单位获得突袭并从其中钻出"
+  },
+  {
+    "en": "Flying spy. Cloak renders the unit invisible to enemies without detection.<n/><n/><c val=\"FFE303\">Detector</c>",
+    "cn": "飞行间谍。隐形而不被发现。<n/><n/><c val=\"FFE303\">探测器</c>"
+  },
+  {
+    "en": "Flying caster. Attacks ground targets with Pulsar Beam.",
+    "cn": "空中施法者，使用脉冲光线攻击地面单位"
+  },
+  {
+    "en": "Provides supply.<n/>Supply allows you to create more units.",
+    "cn": "提供补给。<n/>虽然在钥石卡牌中补给并没有用。"
+  },
+  {
+    "en": "A replacement for the Keystone! Each turn it gives a random Spawn card to each allied player who has played an Overmind card. That Spawn card has double the normal unit count.",
+    "cn": "用主宰覆盖钥石！每回合它都会给每一个使用主宰牌的玩家一张随机产生的卵牌。这张卵牌的单位数量是普通卵牌的两倍。"
+  },
+  {
+    "en": "Advanced aerial observer. Maintains the unit cap set by the Overlord. Can use the Oversight, Spawn Changeling, and Contaminate abilities.<n/><n/><c val=\"FFE303\">Detector</c>",
+    "cn": ""
+  },
+  {
+    "en": "Air-superiority fighter.<n/><n/><c val=\"ffff8a\">Can attack air units.</c>",
+    "cn": "空中优势战机。<n/><n/><c val=\"ffff8a\">可以攻击空中单位。</c>"
+  },
+  {
+    "en": "Prevents each enemy player from spending 1 of his or her minerals.",
+    "cn": "消耗每个敌方玩家的1点水晶产能。"
+  },
+  {
+    "en": "Creates power for nearby structures, which allows them to recover their shields.",
+    "cn": "为附近的建筑创造能量场，让它们恢复护盾。"
+  },
+  {
+    "en": "Locks one opponent's card, preventing it from being played.<n/><n/>Creates power for nearby structures, which allows them to recover their shields.",
+    "cn": "锁定一张对手的牌，阻止其被使用。<n/><n/>为附近的建筑创造能量场，使其能够恢复护盾。"
+  },
+  {
+    "en": "Defensive unit. Uses Transfusion to heal biological units and structures. Moves much faster on creep.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": "防守单位。使用回复治疗生物单位和建筑。在菌毯上移动更快。<n/><n/><c val=\"ffff8a\">可以攻击地面和空中单位。</c>"
+  },
+  {
+    "en": "Support flyer.<n/><n/>Uses Ensnare to reveal enemy cloaked units.<n/><n/>Uses Spawn Broodlings on tough enemy ground units, dealing massive damage and spawning 2 Broodlings. Will also use Spawn Broodlings on ANY enemy ground unit as a last resort when close to death.",
+    "cn": "支援飞行物。<n/><n/>使用诱捕揭示敌军隐形单位。<n/><n/>对坚固的敌军地面单位使用产卵孵化器，造成巨大伤害并孵化2个巢虫。当接近死亡时，也将在任何敌人地面单位上使用孵化巢虫作为最后手段。"
+  },
+  {
+    "en": "Gives its team's heroic units +15% damage and +1 armor.",
+    "cn": "给予你队伍中的英雄单位+15%伤害+1护甲"
+  },
+  {
+    "en": "Ranged artillery. Can use Corrosive Bile.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "远程攻击单位，可以使用腐蚀性胆汁。<n/><n/><c val=\"#ColorAttackInfo\">能攻击地面单位。</c>"
+  },
+  {
+    "en": "Launch a missile at the target location, dealing <d ref=\"Effect,RavagerCorrosiveBileDamage,Amount\"/> damage to all units in the area upon impact.<n/><n/><c val=\"#ColorAttackInfo\">Can destroy Protoss Force Fields.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Aerial support unit. Uses Auto-Turrets to attack.<n/><n/>Uses Interference Matrix to disable the weapons and abilities of tough mechanical and psionic units.<n/><n/>Uses Anti-Armor Missile on clusters of enemy units and units with high armor, which reduces the armor of enemies in the blast radius.<n/><n/><c val=\"FFE303\">Detector</c>",
+    "cn": "空中支援部队。使用自动炮塔进行攻击。<n/><n/><n/>使用干扰矩阵禁用强悍机械和灵能单位的武器和能力。<n/><n/><n/>对敌方单位和高装甲单位集群使用反装甲导弹，从而减少爆炸半径内敌人的装甲。<n/><n/><c val=\"FFE303\">侦测器</c>"
+  },
+  {
+    "en": "Terran leader.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "人族领袖<n/><n/><c val=\"#ColorAttackInfo\">能攻击空中和地面单位。</c>"
+  },
+  {
+    "en": "Doubles the production of the attached structure.",
+    "cn": "翻倍产能"
+  },
+  {
+    "en": "Raider. Can jump up and down cliffs. Regenerates life quickly while out of combat. Can use KD8 Charge.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "袭击者。能在悬崖上跳上跳下。在战斗结束后能快速恢复生命。可以使用KD8炸弹。<n/><n/><c val=\"#ColorAttackInfo\">可以攻击地面单位。</c>"
+  },
+  {
+    "en": "Adds a Xenomorph Research card to its owner's hand each play phase.",
+    "cn": "每回合给你一张升异形卡"
+  },
+  {
+    "en": "Assault unit. Regenerates life quickly when burrowed. Can morph into a Ravager.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": "突击队。埋地时能迅速恢复生命。可以变形为破坏者。<n/><n/><c val=\"ffff8a\">可以攻击地面单位。</c>"
+  },
+  {
+    "en": "Adds a Roach Spawn card to its owner's hand each play phase.",
+    "cn": "每回合给其拥有者一张蟑螂卵卡。"
+  },
+  {
+    "en": "Its owner reduces upkeep costs (resource costs you pay each turn, like those on Carrier cards) by 2 minerals and 2 gas.",
+    "cn": "减少两点瓦斯及水晶维护"
+  },
+  {
+    "en": "Sends 1 Immortal each battle phase.",
+    "cn": "每回合生产一不朽"
+  },
+  {
+    "en": "Sends 1 Disruptor each battle phase.",
+    "cn": "每回合生产一炸屎球"
+  },
+  {
+    "en": "Adds a Robotics Warp card to its owner's hand each play phase.",
+    "cn": "每回合给其拥有者一张机械折跃卡"
+  },
+  {
+    "en": "Basic worker unit. Can gather resources, build Terran structures, and repair.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "农民，能维修以及建造建筑。<n/><n/><c val=\"#ColorAttackInfo\">能攻击地面单位。</c>"
+  },
+  {
+    "en": "Gives its owner a 20% chance to revive slain Infested units as Infested Marines.",
+    "cn": ""
+  },
+  {
+    "en": "Gives its owner a 75% chance to revive slain Infested units as Infested Civilians.",
+    "cn": "所有者的被感染单位在阵亡时有75%的概率复活为被感染的村民"
+  },
+  {
+    "en": "Each turn it turns 2 of its owner's Infested Civilians into an Infested Diamondback card.",
+    "cn": ""
+  },
+  {
+    "en": "Infested defensive structure. Uproots and attacks if there are enough Infested units in front of it at the start of the battle phase. <n/>Infantry fights from inside. <n/><n/><c val=\"#ColorAttackInfo\">Bonus: +1 range to units inside.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Uprooted attack structure.",
+    "cn": "未扎根的建筑"
+  },
+  {
+    "en": "Each turn it turns 2 of its owner's Infested Civilians into an Infested Banshee card.",
+    "cn": ""
+  },
+  {
+    "en": "Aerial support unit.<n/><n/>Uses Irradiate on clusters of enemy biological units, which deals damage over time.<n/><n/>Uses Defensive Matrix on friendly units to protect them.<n/><n/>Uses EMP Round on clusters of units with shields, energy, or cloaking. EMP Round drains shields and energy, and temporarily reveals cloaked units.<n/><n/><c val=\"FFE303\">Detector</c>",
+    "cn": "空中支援单位。<n/><n/>使用辐照伤害敌对集群生物单位.<n/><n/>使用护盾保护友军单位<n/><n/>对敌对隐身单位使用emp暂时揭示其隐身并对减少附近单位的护盾及能量值.<n/><n/><c val=\"FFE303\">Detector</c>"
+  },
+  {
+    "en": "Adds a Mutalisk Spawn or Scourge Spawn card to its owner's hand each play phase.",
+    "cn": "每回合在拥有者手中生成一张飞龙或爆蚊卵牌"
+  },
+  {
+    "en": "Long-ranged detector.",
+    "cn": "远距侦测"
+  },
+  {
+    "en": "Energy-manipulator unit. Uses Guardian Shield to protect nearby units from ranged damage.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "能量机械单位。使用护盾减少附近友军受到的远程伤害<n/><n/><c val=\"#ColorAttackInfo\">对空对地.</c>"
+  },
+  {
+    "en": "Alarak is invulnerable until this structure is destroyed.",
+    "cn": "直至被毁阿拉纳克将是无敌的单位"
+  },
+  {
+    "en": "Whenever this structure's owner draws a card with Rebirth, they discard it and draw another. If they have multiple Shrines of Rebirth, the draw effect stacks.",
+    "cn": ""
+  },
+  {
+    "en": "Heavy tank. Can switch into Siege Mode to provide long-range artillery support.<n/><n/><c val=\"FFFF8A\">Can attack ground units.</c>",
+    "cn": "重型坦克。可以进攻攻城模式以获得超长射距.<n/><n/><c val=\"FFFF8A\">可以对地</c>"
+  },
+  {
+    "en": "Heavy tank. Can switch into Tank Mode to provide mobile tank support.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "重型坦克。可以进入坦克模式以获得移动能力<n/><n/><c val=\"#ColorAttackInfo\">可以对地</c>"
+  },
+  {
+    "en": "Each play phase this adds 2 Ultralisk Simulants to a random Simulant unit card in its owner's deck that hasn't had any units added to it yet.",
+    "cn": ""
+  },
+  {
+    "en": "Each play phase this adds 3 Hydralisk Simulants to a random Simulant unit card in its owner's deck that hasn't had any units added to it yet.",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Zergling Spawn card to its owner's hand each play phase.",
+    "cn": "每回合在所有者手中生成一张跳虫卵牌"
+  },
+  {
+    "en": "Each play phase this adds 12 Zergling Simulants to a random Simulant unit card in its owner's deck that hasn't had any units added to it yet.",
+    "cn": ""
+  },
+  {
+    "en": "Psionic assault soldier.<n/><n/>Uses Ultrasonic Pulse to briefly stun clusters of enemy units.<n/><n/>If Tactical, uses Cloak when retreating.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "灵能突击兵。<n/><n/>使用灵能击晕敌对集群单位.<n/><n/>后撤时隐身.<n/><n/><c val=\"#ColorAttackInfo\">对空对地.</c>"
+  },
+  {
+    "en": "Adds a Mutalisk Spawn or Corruptor Spawn card to its owner's hand each play phase.",
+    "cn": "每回合在所有者手中生成一张飞龙或腐化卵牌"
+  },
+  {
+    "en": "Ranged support strider.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": "远程支援型机动单位。<n/><n/><c val=\"ffff8a\">对空对地</c>"
+  },
+  {
+    "en": "Sends 1 Phoenix each battle phase.",
+    "cn": "每回合生产一凤凰"
+  },
+  {
+    "en": "Sends 1 Scout each battle phase.",
+    "cn": "每回合生产一棍机"
+  },
+  {
+    "en": "Sends 1 Void Ray each battle phase.",
+    "cn": "每回合生产一虚空"
+  },
+  {
+    "en": "Adds a Star Warp card to its owner's hand each play phase.",
+    "cn": "每回合在所有者手中生成一张星际折跃牌"
+  },
+  {
+    "en": "Sends 1 Viking each battle phase. If you attach a Reactor it sends 2 Vikings instead. If you attach a Tech Lab it sends 1 Banshee instead.",
+    "cn": "每回合造一维京。拥有反应堆挂件时改为造两个，拥有科技挂件时改为造1女妖"
+  },
+  {
+    "en": "Sends 1 Wraith each battle phase. If you attach a Reactor it sends 2 Wraiths instead. If you attach a Tech Lab it sends 1 Banshee instead.",
+    "cn": "每回合造一个隐飞。拥有反应堆挂件时改为造两个。拥有科技挂件时改为造1女妖。"
+  },
+  {
+    "en": "Locks a unit in a Stasis Prison until destroyed.<n/><n/>Creates power for nearby structures, which allows them to recover their shields.",
+    "cn": "静滞一个单位直到被毁。<n/><n/>为附近的建筑充能，充能后的建筑能自我恢复护盾"
+  },
+  {
+    "en": "When destroyed, its owner discards their cheapest card.",
+    "cn": ""
+  },
+  {
+    "en": "Siege unit that attacks by spawning Locust minions.<n/><n/><c val=\"#ColorAttackInfo\">Locusts can attack ground units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Adds a Swarmling Spawn card to its owner's hand each play phase.",
+    "cn": "每回合在所有者手中生成一张分裂虫卵牌"
+  },
+  {
+    "en": "Siege artillery craft. Attacks from long range.<n/><n/><c val=\"ffff8a\">Can attack ground and air units.</c>",
+    "cn": "imba炮艇。超远射距<n/><n/><c val=\"ffff8a\">对空对地.</c>"
+  },
+  {
+    "en": "Whenever its owner plays an action card that costs 8 or less, that card gets shuffled back into the deck instead of being discarded.",
+    "cn": "每当所有者打出一张费用8或以下的牌时，这张牌不送去墓地而是洗回卡组"
+  },
+  {
+    "en": "Heavy assault mech.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "重型突击机甲<n/><n/><c val=\"#ColorAttackInfo\">对空对地.</c>"
+  },
+  {
+    "en": "Each turn it shuffles the most expensive card its owner can't afford back into their deck. Then they draw a card.",
+    "cn": "每回合该建筑将所有者手牌中一张最贵且支付不起的牌洗回卡组。如果成功，则抽一张牌"
+  },
+  {
+    "en": "Heavy assault beast. Has an area-damage attack and the Frenzy buff which makes it immune to most movement modifying abilities.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": "重型猛兽. 具有区域性伤害并且免疫大多数控制技能.<n/><n/><c val=\"ffff8a\">可以对地.</c>"
+  },
+  {
+    "en": "Adds an Ultralisk Spawn card to its owner's hand each play phase.",
+    "cn": "每回合生成一张牛卵牌到所有者手中"
+  },
+  {
+    "en": "Whenever this structure's owner plays or discards an Unchained card, they send 1 High Templar or Dark Templar (chosen randomly).",
+    "cn": ""
+  },
+  {
+    "en": "A savage bear-like creature from the frozen planet of Braxis.",
+    "cn": "啊咧哇，大咧哒，大咧哒，大咧哒，啊咧哇，熊齿受，熊齿受！<n/><n/>啊熊的力量，米尼次给哒！正义的英雄，熊齿受，熊齿受"
+  },
+  {
+    "en": "Artillery fighter. Loaded with missiles that deal area damage to enemy air targets.<n/><n/><c val=\"#ColorAttackInfo\">Can attack air units.</c>",
+    "cn": "无情的空优炮机。可以发射数枚飞弹攻击目标空域并对其中的敌对空中单位造成伤害。<n/><n/><c val=\"#ColorAttackInfo\">可以对空.</c>"
+  },
+  {
+    "en": "Each turn it adds a Vespene Cube to its owners hand if they have unspent Vespene Gas.",
+    "cn": "每回合如果有未使用的瓦斯则在手中生成一张瓦斯块牌"
+  },
+  {
+    "en": "Durable support unit. Can switch into Fighter Mode to attack air units.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "可靠的地面支援机甲。可以切换到战机模式攻击空中单位<n/><n/><c val=\"#ColorAttackInfo\">可以对地.</c>"
+  },
+  {
+    "en": "Durable support flyer. Loaded with strong anti-capital air missiles. Can switch into Assault Mode to attack ground units.<n/><n/><c val=\"#ColorAttackInfo\">Can attack air units.</c>",
+    "cn": "可靠的支援战机。带有强力的对空飞弹。可以切换到突击模式攻击地面单位<n/><n/><c val=\"#ColorAttackInfo\">可以对空.</c>"
+  },
+  {
+    "en": "Flying caster. Able to manipulate battlefield conditions.<n/><n/>Uses Blinding Cloud on enemy ground units with ranged attacks, reducing their range to melee.<n/><n/>Uses Parasitic Bomb on clusters of enemy air units, dealing damage over time.",
+    "cn": ""
+  },
+  {
+    "en": "Surgical strike craft.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": "可以精准切割敌人的飞行单位。<n/><n/><c val=\"#ColorAttackInfo\">可以对空对地</c>"
+  },
+  {
+    "en": "Fast skirmisher.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "csgo顶级自由人。<n/><n/><c val=\"#ColorAttackInfo\">可以对地.</c>"
+  },
+  {
+    "en": "Adds a Warp In card to its owner's hand each play phase.",
+    "cn": "每个出牌阶段在所有者手中生成一张折跃卡"
+  },
+  {
+    "en": "Ranged specialist. Can use Psionic Transfer.<n/><n/><c val=\"#ColorAttackInfo\">Can attack ground units.</c>",
+    "cn": "可以远程攻击的特种兵。能使用灵能位移。<n/><n/><c val=\"#ColorAttackInfo\">可以对地.</c>"
+  },
+  {
+    "en": "Flying transport. Can load units from a distance. Can also deploy to create a power field.",
+    "cn": ""
+  },
+  {
+    "en": "Each turn it removes all Waste from its owner's hand and replaces it with a single Refined Scrap.",
+    "cn": ""
+  },
+  {
+    "en": "Robotic mine. Launches missiles at nearby enemy units while burrowed. Attacks deal splash damage in a small area around the target. Widow Mine is revealed when Sentinel Missile is on cooldown. <n/><n/><c val=\"#ColorAttackInfo\">Can attack ground and air units.</c>",
+    "cn": ""
+  },
+  {
+    "en": "Stealth anti-air fighter.",
+    "cn": "隐形的空优战机"
+  },
+  {
+    "en": "Powerful melee warrior.<n/><n/><c val=\"ffff8a\">Can attack ground units.</c>",
+    "cn": "强大的近战战士。<n/><n/><c val=\"ffff8a\">可以攻击地面单位</c>"
+  },
+  {
+    "en": "Fast melee creature. Can morph into a Baneling.<n/><n/><c val=\"FFFF8A\">Can attack ground units.</c>",
+    "cn": "近战机动性单位。可以变异为毒爆虫。<n/><n/><c val=\"FFFF8A\">可以攻击地面单位</c>"
+  },
+  {
+    "en": "Hybrid Carapace",
+    "cn": "混合体甲壳"
+  },
+  {
+    "en": "Primal Carapace",
+    "cn": "原始甲壳"
+  },
+  {
+    "en": "Protoss Building Armor",
+    "cn": "神族建筑护甲"
+  },
+  {
+    "en": "Simulant Carapace",
+    "cn": ""
+  },
+  {
+    "en": "Void Armor",
+    "cn": "虚空装甲"
+  },
+  {
+    "en": "Zerg Ground Carapace",
+    "cn": "虫族地面甲壳"
+  },
+  {
+    "en": "Zerg Building Armor",
+    "cn": "虫族建筑装甲"
+  },
+  {
+    "en": "AI Containment Cell",
+    "cn": ""
+  },
+  {
+    "en": "AI Research Site",
+    "cn": ""
+  },
+  {
+    "en": "Aberration",
+    "cn": "畸变"
+  },
+  {
+    "en": "Activation Bay",
+    "cn": "作战湾"
+  },
+  {
+    "en": "Adept - Liyarra",
+    "cn": ""
+  },
+  {
+    "en": "Adept",
+    "cn": "使徒"
+  },
+  {
+    "en": "Adept Taldarim",
+    "cn": "塔达林使徒"
+  },
+  {
+    "en": "Air Strike Dummy",
+    "cn": ""
+  },
+  {
+    "en": "Air Strike Weapon",
+    "cn": ""
+  },
+  {
+    "en": "Battlecruiser Copy",
+    "cn": "大和副本"
+  },
+  {
+    "en": "Arbiter - Syndrea",
+    "cn": "大总裁辛德瑞"
+  },
+  {
+    "en": "Archon",
+    "cn": "白球"
+  },
+  {
+    "en": "Archon - Ulrezaj",
+    "cn": "欧蕾加"
+  },
+  {
+    "en": "Armament Bay",
+    "cn": "武器湾"
+  },
+  {
+    "en": "Hierarch - Artanis",
+    "cn": "大主教阿塔尼斯"
+  },
+  {
+    "en": "Auto Turret Release Weapon",
+    "cn": ""
+  },
+  {
+    "en": "Ballistics Bay",
+    "cn": "弹道实验室"
+  },
+  {
+    "en": "Baneling",
+    "cn": "毒爆"
+  },
+  {
+    "en": "Mecha Baneling",
+    "cn": ""
+  },
+  {
+    "en": "Infested Banshee",
+    "cn": ""
+  },
+  {
+    "en": "Banshee",
+    "cn": ""
+  },
+  {
+    "en": "Barracks",
+    "cn": "兵营"
+  },
+  {
+    "en": "Battlecruiser - Aleksander",
+    "cn": "亚历山大"
+  },
+  {
+    "en": "Battlecruiser",
+    "cn": ""
+  },
+  {
+    "en": "Infested Battlecruiser - Aleksander",
+    "cn": ""
+  },
+  {
+    "en": "Battlecruiser - Norad II",
+    "cn": "诺拉德二号"
+  },
+  {
+    "en": "Brood Lord",
+    "cn": "大龙"
+  },
+  {
+    "en": "Mecha Broodling",
+    "cn": ""
+  },
+  {
+    "en": "Brutalisk",
+    "cn": "莽受"
+  },
+  {
+    "en": "Bunker",
+    "cn": ""
+  },
+  {
+    "en": "Cargo Truck",
+    "cn": "货车"
+  },
+  {
+    "en": "Carrier - Andraxxus",
+    "cn": "安德拉克萨斯号"
+  },
+  {
+    "en": "Carrier - Gantrithor",
+    "cn": "甘翠索号"
+  },
+  {
+    "en": "Carrier",
+    "cn": "航母"
+  },
+  {
+    "en": "Carrier - The Dreadnought",
+    "cn": ""
+  },
+  {
+    "en": "Cerebrate",
+    "cn": "脑虫"
+  },
+  {
+    "en": "Cerebrate - Daggoth",
+    "cn": "脑虫-达格斯"
+  },
+  {
+    "en": "Chrysalis",
+    "cn": "蛹"
+  },
+  {
+    "en": "Zoomba",
+    "cn": ""
+  },
+  {
+    "en": "Colossus",
+    "cn": "巨像"
+  },
+  {
+    "en": "Commander",
+    "cn": "指挥官"
+  },
+  {
+    "en": "Corruptor",
+    "cn": "腐化者"
+  },
+  {
+    "en": "Mecha Corruptor",
+    "cn": ""
+  },
+  {
+    "en": "Space Cattle",
+    "cn": "牛"
+  },
+  {
+    "en": "Cyclone",
+    "cn": ""
+  },
+  {
+    "en": "Marine",
+    "cn": "好兄弟"
+  },
+  {
+    "en": "Dark Templar - Fallen Hero",
+    "cn": "黑暗圣堂——无名英雄"
+  },
+  {
+    "en": "Dark Templar",
+    "cn": ""
+  },
+  {
+    "en": "Dark Templar - Raszagal",
+    "cn": "拉扎加尔"
+  },
+  {
+    "en": "Primal King - Dehaka",
+    "cn": "原始之王——德哈卡"
+  },
+  {
+    "en": "Winged Creeper",
+    "cn": "带翅蝗虫"
+  },
+  {
+    "en": "Pack Devourer - Dakrun",
+    "cn": "达克伦"
+  },
+  {
+    "en": "Greater Wurm - Glevig",
+    "cn": "格莱维"
+  },
+  {
+    "en": "Primal Alpha - Dehaka",
+    "cn": "小二哈"
+  },
+  {
+    "en": "Primal Wurm",
+    "cn": "原始蠕虫"
+  },
+  {
+    "en": "Diamondback",
+    "cn": "响尾蛇"
+  },
+  {
+    "en": "Infested Diamondback",
+    "cn": ""
+  },
+  {
+    "en": "Disruptor",
+    "cn": "干扰者"
+  },
+  {
+    "en": "Faithful Hound",
+    "cn": "可靠的猎犬"
+  },
+  {
+    "en": "Dragoon",
+    "cn": "龙骑士"
+  },
+  {
+    "en": "Dragoon - Fenix",
+    "cn": "龙骑士菲尼克斯"
+  },
+  {
+    "en": "Dragoon Shrine",
+    "cn": "龙骑神殿"
+  },
+  {
+    "en": "Mecha Drone",
+    "cn": ""
+  },
+  {
+    "en": "Factory",
+    "cn": "重工"
+  },
+  {
+    "en": "Fallen Xel'naga - Amon",
+    "cn": "堕落的萨尔那加-埃蒙"
+  },
+  {
+    "en": "Firebat",
+    "cn": "催逝员"
+  },
+  {
+    "en": "Gateway",
+    "cn": "传送门"
+  },
+  {
+    "en": "Xel'naga Keystone",
+    "cn": "钥石"
+  },
+  {
+    "en": "Ghost - Duran",
+    "cn": "幽灵-杜兰"
+  },
+  {
+    "en": "Ghost - Siggs",
+    "cn": ""
+  },
+  {
+    "en": "Ghost - Stukov",
+    "cn": "幽灵-斯托克夫"
+  },
+  {
+    "en": "Goliath",
+    "cn": "歌莉娅"
+  },
+  {
+    "en": "GoliathAWeapon",
+    "cn": "歌莉娅武器"
+  },
+  {
+    "en": "Goliath - Volcroft",
+    "cn": ""
+  },
+  {
+    "en": "Creeper",
+    "cn": "蝗虫"
+  },
+  {
+    "en": "Guardian",
+    "cn": "守护者"
+  },
+  {
+    "en": "Hellion",
+    "cn": ""
+  },
+  {
+    "en": "Hellbat",
+    "cn": ""
+  },
+  {
+    "en": "Hercules Dropship",
+    "cn": "别问问就是大力出奇迹"
+  },
+  {
+    "en": "Heretical Archives",
+    "cn": ""
+  },
+  {
+    "en": "High Templar - Ma'lash",
+    "cn": "高阶圣堂——马拉什"
+  },
+  {
+    "en": "High Templar",
+    "cn": "高阶圣堂武士"
+  },
+  {
+    "en": "High Templar - Tassadar",
+    "cn": "塔萨达飞弹"
+  },
+  {
+    "en": "High Templar Weapon Missile Malash",
+    "cn": "马拉什的武器飞弹"
+  },
+  {
+    "en": "Highlord - Alarak",
+    "cn": "高坚果"
+  },
+  {
+    "en": "Leviathan",
+    "cn": "利维坦"
+  },
+  {
+    "en": "Seeker Copy",
+    "cn": "探索者副本"
+  },
+  {
+    "en": "Hybrid Behemoth",
+    "cn": "混合体巨兽"
+  },
+  {
+    "en": "Hybrid Destroyer",
+    "cn": "混合体破坏者"
+  },
+  {
+    "en": "Hybrid Destroyer Structure Kill Missile",
+    "cn": "混合体惩戒者对建筑飞弹"
+  },
+  {
+    "en": "Hybrid Dominator",
+    "cn": "混合体支配者"
+  },
+  {
+    "en": "Hybrid Nemesis",
+    "cn": "混合体惩戒者"
+  },
+  {
+    "en": "Hybrid Reaver",
+    "cn": "混合体掠夺者"
+  },
+  {
+    "en": "Hydralisk",
+    "cn": "刺蛇"
+  },
+  {
+    "en": "Mecha Hydralisk",
+    "cn": ""
+  },
+  {
+    "en": "Battlecruiser - Hyperion",
+    "cn": "休伯利安"
+  },
+  {
+    "en": "Hyperion Yamato",
+    "cn": "休伯利安大和炮"
+  },
+  {
+    "en": "Immortal",
+    "cn": "不朽者"
+  },
+  {
+    "en": "Imperial Witness",
+    "cn": "帝皇洗脑船"
+  },
+  {
+    "en": "Infested Civilian",
+    "cn": "被感染的平民"
+  },
+  {
+    "en": "Volatile Infested",
+    "cn": "易爆的被感染人"
+  },
+  {
+    "en": "Mecha Infestor",
+    "cn": ""
+  },
+  {
+    "en": "Infested Marine",
+    "cn": "被感染的好兄弟"
+  },
+  {
+    "en": "Interceptor Andraxxus",
+    "cn": "安德拉克萨斯的小飞机"
+  },
+  {
+    "en": "Interceptor Gantrithor",
+    "cn": "甘翠索的小飞机"
+  },
+  {
+    "en": "Interceptor",
+    "cn": "小飞机"
+  },
+  {
+    "en": "Invisible Force Field",
+    "cn": "不可见力场"
+  },
+  {
+    "en": "Phase-Smith - Karax",
+    "cn": "凯拉克斯"
+  },
+  {
+    "en": "Ghost - Kerrigan",
+    "cn": "幽灵——凯瑞甘"
+  },
+  {
+    "en": "Queen of Blades - Kerrigan",
+    "cn": "刀锋女王"
+  },
+  {
+    "en": "Lurker",
+    "cn": "地刺"
+  },
+  {
+    "en": "Wild Lyote",
+    "cn": "野生的不知道啥玩意"
+  },
+  {
+    "en": "Machine Shop",
+    "cn": "机械车间"
+  },
+  {
+    "en": "Marauder",
+    "cn": "光头哥"
+  },
+  {
+    "en": "Marauder - Swann",
+    "cn": "光头斯旺"
+  },
+  {
+    "en": "Medic",
+    "cn": "老婆"
+  },
+  {
+    "en": "Medic - Lt. Morales",
+    "cn": "莫拉莱斯"
+  },
+  {
+    "en": "Medic - Stetmann",
+    "cn": "医生斯台特曼"
+  },
+  {
+    "en": "Medivac",
+    "cn": ""
+  },
+  {
+    "en": "Mengsk's Palace",
+    "cn": "蒙斯克的王宫"
+  },
+  {
+    "en": "Reaper",
+    "cn": "收鸽者"
+  },
+  {
+    "en": "Missile Turret",
+    "cn": ""
+  },
+  {
+    "en": "Moebius Hybrid",
+    "cn": "莫比斯杂种"
+  },
+  {
+    "en": "Mothership - Cybros Station",
+    "cn": ""
+  },
+  {
+    "en": "Mothership",
+    "cn": "妈妈船"
+  },
+  {
+    "en": "Hollow Mother - Murvar",
+    "cn": "穆瓦尔"
+  },
+  {
+    "en": "Mutalisk",
+    "cn": "飞龙"
+  },
+  {
+    "en": "Mecha Mutalisk",
+    "cn": ""
+  },
+  {
+    "en": "Mutation Chamber",
+    "cn": "变异腔"
+  },
+  {
+    "en": "Mystery Box",
+    "cn": "这个小盒子里装满了群主女装"
+  },
+  {
+    "en": "Neosteel Armory",
+    "cn": "精钢军械库"
+  },
+  {
+    "en": "Neural Parasite",
+    "cn": ""
+  },
+  {
+    "en": "Ghost - Nova",
+    "cn": "幽灵-诺娃"
+  },
+  {
+    "en": "Creep Colony",
+    "cn": "潜伏菌落"
+  },
+  {
+    "en": "Primal Wurm DeepTunnelPlacement",
+    "cn": "原始蠕虫挖洞跑路术"
+  },
+  {
+    "en": "Observer",
+    "cn": "侦测器"
+  },
+  {
+    "en": "Thor",
+    "cn": "雷神"
+  },
+  {
+    "en": "Oracle",
+    "cn": ""
+  },
+  {
+    "en": "Overlord",
+    "cn": "王虫"
+  },
+  {
+    "en": "Overmaster - Sorvoth",
+    "cn": ""
+  },
+  {
+    "en": "Overmind",
+    "cn": "主宰"
+  },
+  {
+    "en": "OvermindRumble",
+    "cn": "主宰之声"
+  },
+  {
+    "en": "Mecha Overseer",
+    "cn": ""
+  },
+  {
+    "en": "Perdition Turret",
+    "cn": ""
+  },
+  {
+    "en": "Phoenix",
+    "cn": "凤凰"
+  },
+  {
+    "en": "Phoenix - Mavix",
+    "cn": ""
+  },
+  {
+    "en": "Physics Lab",
+    "cn": "物理实验室"
+  },
+  {
+    "en": "Psi Disruptor",
+    "cn": "炸屎球"
+  },
+  {
+    "en": "Pylon",
+    "cn": "水晶塔"
+  },
+  {
+    "en": "Argus Crystal",
+    "cn": "阿古斯水晶"
+  },
+  {
+    "en": "Queen - Kilysa",
+    "cn": "虫后克莉莎"
+  },
+  {
+    "en": "Queen MPSpawn Broodlings Missile Copy",
+    "cn": "虫后巢虫导弹副本"
+  },
+  {
+    "en": "Queen - Rokarr",
+    "cn": "虫后-罗卡尔"
+  },
+  {
+    "en": "Queen - Zagara",
+    "cn": "女王-扎加拉"
+  },
+  {
+    "en": "Raider's Cache",
+    "cn": "掠夺者仓库"
+  },
+  {
+    "en": "Ravager",
+    "cn": "金甲虫"
+  },
+  {
+    "en": "Ravager Corrosive Bile Missile",
+    "cn": ""
+  },
+  {
+    "en": "Mecha Ravager",
+    "cn": ""
+  },
+  {
+    "en": "Raven",
+    "cn": ""
+  },
+  {
+    "en": "Commander - Jim Raynor",
+    "cn": "指挥官-吉姆雷诺"
+  },
+  {
+    "en": "Reaper Bar",
+    "cn": ""
+  },
+  {
+    "en": "Reaver",
+    "cn": "金甲虫"
+  },
+  {
+    "en": "Lava Beetle",
+    "cn": "熔岩虫"
+  },
+  {
+    "en": "Research Facility",
+    "cn": "研究装置"
+  },
+  {
+    "en": "Roach",
+    "cn": "蟑螂"
+  },
+  {
+    "en": "Robotics Facility",
+    "cn": "机械装置"
+  },
+  {
+    "en": "Warp Facility",
+    "cn": "折跃装置"
+  },
+  {
+    "en": "SCV",
+    "cn": "泰伦的光荣的无产人员"
+  },
+  {
+    "en": "Infested Barracks",
+    "cn": "被感染的堡垒"
+  },
+  {
+    "en": "Infested Compound",
+    "cn": "复合感染"
+  },
+  {
+    "en": "Infested Factory",
+    "cn": ""
+  },
+  {
+    "en": "Infested Bunker",
+    "cn": "被感染的地堡"
+  },
+  {
+    "en": "Infested SCV",
+    "cn": "被感染的SCV"
+  },
+  {
+    "en": "Infested Starport",
+    "cn": ""
+  },
+  {
+    "en": "Science Vessel",
+    "cn": "科学球"
+  },
+  {
+    "en": "Scourge",
+    "cn": "爆蚊"
+  },
+  {
+    "en": "Spire",
+    "cn": "龙塔"
+  },
+  {
+    "en": "Scout",
+    "cn": "棍机"
+  },
+  {
+    "en": "Sentry",
+    "cn": "哨兵"
+  },
+  {
+    "en": "Shield Projector",
+    "cn": "护盾电池"
+  },
+  {
+    "en": "Shrine of Rebirth",
+    "cn": ""
+  },
+  {
+    "en": "Siege Tank - Admiral Duke",
+    "cn": "上将杜克"
+  },
+  {
+    "en": "Siege Tank",
+    "cn": "坦克"
+  },
+  {
+    "en": "Siege Tank - Colonel Duke",
+    "cn": "上校杜克"
+  },
+  {
+    "en": "Simulant Cavern",
+    "cn": ""
+  },
+  {
+    "en": "Simulant Den",
+    "cn": ""
+  },
+  {
+    "en": "Simulant Pool",
+    "cn": ""
+  },
+  {
+    "en": "Spectre",
+    "cn": "幽魂"
+  },
+  {
+    "en": "Spider Mine",
+    "cn": "蜘蛛雷"
+  },
+  {
+    "en": "Stalker",
+    "cn": "追猎者"
+  },
+  {
+    "en": "Stalker Copy",
+    "cn": "追猎副本"
+  },
+  {
+    "en": "Stargate",
+    "cn": "星门"
+  },
+  {
+    "en": "Warp Stargate",
+    "cn": "折跃星门"
+  },
+  {
+    "en": "Starport",
+    "cn": "星港"
+  },
+  {
+    "en": "Stasis Crystal",
+    "cn": "禁滞水晶"
+  },
+  {
+    "en": "Sunken Colony",
+    "cn": "潜隐菌落"
+  },
+  {
+    "en": "Supplicant",
+    "cn": "死徒"
+  },
+  {
+    "en": "Supply Depot",
+    "cn": "补给站"
+  },
+  {
+    "en": "Swarm Host",
+    "cn": ""
+  },
+  {
+    "en": "Swarmling Pool",
+    "cn": "狗池"
+  },
+  {
+    "en": "Dominion Barricade",
+    "cn": "统御堡垒"
+  },
+  {
+    "en": "Tempest",
+    "cn": "风暴"
+  },
+  {
+    "en": "Tempest Weapon (Ground) Sieging",
+    "cn": "风暴攻城"
+  },
+  {
+    "en": "Terran Add-On Placement Dummy",
+    "cn": "愚蠢的人族自动建设"
+  },
+  {
+    "en": "Thor - Odin",
+    "cn": "奥丁"
+  },
+  {
+    "en": "Trophy",
+    "cn": "奖杯"
+  },
+  {
+    "en": "Ultralisk",
+    "cn": "大牛"
+  },
+  {
+    "en": "Mecha Ultralisk",
+    "cn": ""
+  },
+  {
+    "en": "Ultralisk - Torrasque",
+    "cn": "大牛-托雷斯克"
+  },
+  {
+    "en": "Unchained Council",
+    "cn": ""
+  },
+  {
+    "en": "Junk Bot",
+    "cn": ""
+  },
+  {
+    "en": "Valkyrie",
+    "cn": "女武神"
+  },
+  {
+    "en": "Valkyrie Damage Missile",
+    "cn": "女武神飞弹"
+  },
+  {
+    "en": "Vespene Compressor",
+    "cn": "瓦斯压缩机"
+  },
+  {
+    "en": "Viking",
+    "cn": "维京战机"
+  },
+  {
+    "en": "Viper Consume Structure",
+    "cn": "飞蛇"
+  },
+  {
+    "en": "Void Ray",
+    "cn": "虚空辉光舰"
+  },
+  {
+    "en": "Void Ray Copy",
+    "cn": "虚空辉光舰副本"
+  },
+  {
+    "en": "Void Ray - Voidscourge Liyarra",
+    "cn": ""
+  },
+  {
+    "en": "Vulture",
+    "cn": "秃鹫"
+  },
+  {
+    "en": "Warp Prism",
+    "cn": ""
+  },
+  {
+    "en": "Waste Processor",
+    "cn": ""
+  },
+  {
+    "en": "Widow Mine Air",
+    "cn": ""
+  },
+  {
+    "en": "Widow Mine",
+    "cn": ""
+  },
+  {
+    "en": "Wraith",
+    "cn": "隐飞"
+  },
+  {
+    "en": "Zealot - Aldaris",
+    "cn": "狂热者-卡尔达利斯"
+  },
+  {
+    "en": "Zealot - Fenix",
+    "cn": "狂热者-菲尼克斯"
+  },
+  {
+    "en": "Zealot",
+    "cn": "狂热者"
+  },
+  {
+    "en": "Dark Templar - Zeratul",
+    "cn": "黑暗圣堂-泽拉图"
+  },
+  {
+    "en": "Zergling",
+    "cn": "跳虫"
+  },
+  {
+    "en": "Zergling Copy",
+    "cn": "狗副本"
+  },
+  {
+    "en": "Mecha Zergling",
+    "cn": ""
+  },
+  {
+    "en": "Hybrid Shields",
+    "cn": "混合护盾"
+  },
+  {
+    "en": "Void Shields",
+    "cn": "虚空护盾"
+  },
+  {
+    "en": "Glaive Cannon",
+    "cn": "长柄炮"
+  },
+  {
+    "en": "Psionic Lightning",
+    "cn": "灵能闪电"
+  },
+  {
+    "en": "Phase Disruptor Cannon",
+    "cn": "相位瓦解炮"
+  },
+  {
+    "en": "Twilight Blades",
+    "cn": "暮光之刃"
+  },
+  {
+    "en": "Psionic Assault",
+    "cn": "心灵攻击"
+  },
+  {
+    "en": "Brutalize",
+    "cn": "残暴"
+  },
+  {
+    "en": "Claws",
+    "cn": "爪子"
+  },
+  {
+    "en": "Volatile Burst",
+    "cn": "黑洞爆发"
+  },
+  {
+    "en": "Bane Blades",
+    "cn": "灾祸之刃"
+  },
+  {
+    "en": "Aerial Burst Sacs",
+    "cn": "气爆囊"
+  },
+  {
+    "en": "Swooping Burst",
+    "cn": "俯冲"
+  },
+  {
+    "en": "Viscous Bile",
+    "cn": "粘稠胆汁"
+  },
+  {
+    "en": "Corrosive Acid",
+    "cn": "腐蚀酸液"
+  },
+  {
+    "en": "Eviscerator Rail Gun",
+    "cn": "开膛手轨道炮"
+  },
+  {
+    "en": "Phase Disruptor",
+    "cn": "相位干扰者"
+  },
+  {
+    "en": "Dummy Detector Weapon",
+    "cn": "都是笨比"
+  },
+  {
+    "en": "Dummy Disruptor Weapon",
+    "cn": "愚蠢的炸屎球"
+  },
+  {
+    "en": "Dummy Weapon",
+    "cn": "愚人的玩笑"
+  },
+  {
+    "en": "Punisher Grenades",
+    "cn": "惩罚者手榴弹"
+  },
+  {
+    "en": "Perdition Flamethrower",
+    "cn": "让火焰净化一切"
+  },
+  {
+    "en": "Glave Wurm",
+    "cn": ""
+  },
+  {
+    "en": "Hellfire Missiles",
+    "cn": "地狱火导弹"
+  },
+  {
+    "en": "Autocannon",
+    "cn": "机炮"
+  },
+  {
+    "en": "HALO Cluster Rockets",
+    "cn": "地狱集群火箭发射器"
+  },
+  {
+    "en": "Bile Swarm",
+    "cn": "胆汁"
+  },
+  {
+    "en": "Tentacles",
+    "cn": "触手"
+  },
+  {
+    "en": "Void Blast",
+    "cn": "虚空冲击"
+  },
+  {
+    "en": "Void Blast Copy",
+    "cn": "虚空冲击副本"
+  },
+  {
+    "en": "Psi Blast",
+    "cn": "灵能冲击"
+  },
+  {
+    "en": "Annihilation Beam",
+    "cn": "湮灭光速"
+  },
+  {
+    "en": "Pustulant Smash",
+    "cn": "爆浆"
+  },
+  {
+    "en": "Neosteel Claws",
+    "cn": "复合钢爪"
+  },
+  {
+    "en": "Infested Gauss Rifle",
+    "cn": "高斯步枪"
+  },
+  {
+    "en": "Interceptor Launch Copy",
+    "cn": "净化副本"
+  },
+  {
+    "en": "Interceptor Launch Purification",
+    "cn": "净化"
+  },
+  {
+    "en": "Javelin Missile Launchers Copy",
+    "cn": "标枪导弹发射器副本"
+  },
+  {
+    "en": "Javelin Missile Launchers",
+    "cn": "标枪导弹发射器"
+  },
+  {
+    "en": "Psionic Blast",
+    "cn": "灵能波"
+  },
+  {
+    "en": "Carver Blades",
+    "cn": ""
+  },
+  {
+    "en": "Impaling Spikes",
+    "cn": "刺钉触须"
+  },
+  {
+    "en": "D8 Charge",
+    "cn": "D8炸弹"
+  },
+  {
+    "en": "Needle Claws",
+    "cn": ""
+  },
+  {
+    "en": "Needle Spines",
+    "cn": ""
+  },
+  {
+    "en": "C-20A Canister Rifle",
+    "cn": "C-20A 步枪"
+  },
+  {
+    "en": "Hellfire Shotgun",
+    "cn": "地狱火散弹枪"
+  },
+  {
+    "en": "Odin's Hammer",
+    "cn": "奥丁之锤"
+  },
+  {
+    "en": "Parasite Spore",
+    "cn": ""
+  },
+  {
+    "en": "Particle Disruptors",
+    "cn": "动能过载"
+  },
+  {
+    "en": "Flamethrower",
+    "cn": ""
+  },
+  {
+    "en": "Psionic Shockwave",
+    "cn": "灵能冲击波"
+  },
+  {
+    "en": "Plasma Discharge",
+    "cn": ""
+  },
+  {
+    "en": "C-14 Gauss Rifle",
+    "cn": "C-14 高斯枪"
+  },
+  {
+    "en": "Scarab",
+    "cn": "圣甲虫"
+  },
+  {
+    "en": "Antimatter Missiles",
+    "cn": "反物质导弹"
+  },
+  {
+    "en": "Photon Blasters",
+    "cn": "相位碎裂跑"
+  },
+  {
+    "en": "Servitor Beam",
+    "cn": "棱镜光速"
+  },
+  {
+    "en": "Acid Saliva",
+    "cn": "酸性喷吐"
+  },
+  {
+    "en": "AGR-14 Rifle",
+    "cn": "AGR-14来福枪"
+  },
+  {
+    "en": "Suicide",
+    "cn": "自杀"
+  },
+  {
+    "en": "Subterranean Tentacle",
+    "cn": "地下突刺"
+  },
+  {
+    "en": "Blood Orb",
+    "cn": "血球"
+  },
+  {
+    "en": "Claw",
+    "cn": "利爪"
+  },
+  {
+    "en": "Resonance Coil",
+    "cn": "谐振盘"
+  },
+  {
+    "en": "Thermal Lance",
+    "cn": "热喷枪"
+  },
+  {
+    "en": "Thor's Hammer",
+    "cn": "雷神之锤"
+  },
+  {
+    "en": "Transient Dummy Weapon",
+    "cn": "愚者之刃"
+  },
+  {
+    "en": "Void Missiles",
+    "cn": "虚空飞弹"
+  },
+  {
+    "en": "Fragmentation Grenade",
+    "cn": "破片榴弹"
+  },
+  {
+    "en": "Gemini Missiles",
+    "cn": "双子飞弹"
+  },
+  {
+    "en": "Burst Lasers",
+    "cn": "脉冲激光炮"
+  },
+  {
+    "en": "Spit Fire",
+    "cn": "火焰喷吐"
+  },
+  {
+    "en": "Psi Plast",
+    "cn": "灵能冲击"
+  }
+]
